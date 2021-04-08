@@ -15,7 +15,7 @@ VD
 p8
 aVLimpiezas
 p9
-aV[COLOR blue]Limpiezas[/COLOR]
+aV[COLOR yellow]Limpiezas[/COLOR]
 p10
 ag6
 ag6
@@ -74,7 +74,7 @@ VD
 p37
 aVOutDated
 p38
-aV[COLOR blue]Desactualizados[/COLOR]
+aV[COLOR yellow]Desactualizados[/COLOR]
 p39
 ag6
 ag6
@@ -83,7 +83,7 @@ VD
 p41
 aVOpcLog
 p42
-aV[COLOR blue]Kodi Log[/COLOR]
+aV[COLOR yellow]Kodi Log[/COLOR]
 p43
 ag6
 ag6
@@ -112,7 +112,7 @@ VD
 p55
 aVAPIS
 p56
-aV[COLOR blue]APIS[/COLOR]
+aV[COLOR yellow]APIS[/COLOR]
 p57
 ag6
 ag6
@@ -121,7 +121,7 @@ VD
 p59
 aVAPISYT
 p60
-aV   [COLOR blue]APIS YouTube[/COLOR]
+aV   [COLOR yellow]APIS YouTube[/COLOR]
 p61
 ag6
 ag6
@@ -150,7 +150,7 @@ VD
 p73
 aVAPISGD
 p74
-aV   [COLOR blue]APIS GDrive[/COLOR]
+aV   [COLOR yellow]APIS GDrive[/COLOR]
 p75
 ag6
 ag6
@@ -179,7 +179,7 @@ VD
 p87
 aVFAQ
 p88
-aV[COLOR blue]FAQs[/COLOR]
+aV[COLOR yellow]FAQs[/COLOR]
 p89
 ag6
 ag6
@@ -298,7 +298,7 @@ VD
 p151
 aVApps
 p152
-aV[COLOR blue]Apps[/COLOR]
+aV[COLOR yellow]Apps[/COLOR]
 p153
 ag6
 ag6
@@ -307,7 +307,7 @@ VD
 p155
 aVInsAce
 p156
-aV   [COLOR blue]AceStream[/COLOR]
+aV   [COLOR yellow]AceStream[/COLOR]
 p157
 ag6
 ag6
@@ -356,7 +356,7 @@ VD
 p179
 aVVPNs
 p180
-aV   [COLOR blue]VPNs[/COLOR]
+aV   [COLOR yellow]VPNs[/COLOR]
 p181
 ag6
 ag6
@@ -455,7 +455,7 @@ VD
 p228
 aVAndroidTV
 p229
-aV   [COLOR blue]Android TV[/COLOR]
+aV   [COLOR yellow]Android TV[/COLOR]
 p230
 ag6
 ag6
@@ -494,7 +494,7 @@ VD
 p247
 aVByR
 p248
-aV[COLOR blue]Copia Seguridad[/COLOR]
+aV[COLOR yellow]Copia Seguridad[/COLOR]
 p249
 ag6
 ag6
@@ -523,7 +523,7 @@ VD
 p261
 aVPSD
 p262
-aV[COLOR blue]Peliculas, Series y Documentales[/COLOR]
+aV[COLOR yellow]Peliculas, Series y Documentales[/COLOR]
 p263
 ag6
 ag6
@@ -702,7 +702,7 @@ VD
 p350
 aVPTF
 p351
-aV[COLOR blue]Plataformas de Pago - Requiere Cuenta Oficial[/COLOR]
+aV[COLOR yellow]Plataformas de Pago - Requiere Cuenta Oficial[/COLOR]
 p352
 ag6
 ag6
@@ -781,7 +781,7 @@ VD
 p389
 aVTV
 p390
-aV[COLOR blue]TV[/COLOR]
+aV[COLOR yellow]TV[/COLOR]
 p391
 ag6
 ag6
@@ -1060,7 +1060,7 @@ VD
 p528
 aVDeportivos
 p529
-aV[COLOR blue]Deportivos[/COLOR]
+aV[COLOR yellow]Deportivos[/COLOR]
 p530
 ag6
 ag6
@@ -1229,7 +1229,7 @@ VD
 p612
 aVCyC
 p613
-aV[COLOR blue]Culturales y Curiosos[/COLOR]
+aV[COLOR yellow]Culturales y Curiosos[/COLOR]
 p614
 ag6
 ag6
@@ -1278,7 +1278,7 @@ VD
 p636
 aVDC
 p637
-aV[COLOR blue]Capacidades Diferentes[/COLOR]
+aV[COLOR yellow]Capacidades Diferentes[/COLOR]
 p638
 ag6
 ag6
@@ -1297,7 +1297,7 @@ VD
 p645
 aVVariados
 p646
-aV[COLOR blue]Variados[/COLOR]
+aV[COLOR yellow]Variados[/COLOR]
 p647
 ag6
 ag6
@@ -1476,7 +1476,7 @@ VD
 p734
 aVInfantiles
 p735
-aV[COLOR blue]Infantiles[/COLOR]
+aV[COLOR yellow]Infantiles[/COLOR]
 p736
 ag6
 ag6
@@ -1535,7 +1535,7 @@ VD
 p763
 aVMusicales
 p764
-aV[COLOR blue]Musicales[/COLOR]
+aV[COLOR yellow]Musicales[/COLOR]
 p765
 ag6
 ag6
@@ -1694,7 +1694,7 @@ VD
 p842
 aVLatinos
 p843
-aV[COLOR blue]Latinos[/COLOR]
+aV[COLOR yellow]Latinos[/COLOR]
 p844
 ag6
 ag6
@@ -1723,7 +1723,7 @@ VD
 p856
 aVVO
 p857
-aV[COLOR blue]VO[/COLOR]
+aV[COLOR yellow]VO[/COLOR]
 p858
 ag6
 ag6
@@ -1892,7 +1892,7 @@ VD
 p940
 aVXXX
 p941
-aV[COLOR blue]XXX[/COLOR]
+aV[COLOR yellow]XXX[/COLOR]
 p942
 ag6
 ag6
@@ -1951,7 +1951,7 @@ VD
 p969
 aVMTorrent
 p970
-aV[COLOR blue]Motores Torrent[/COLOR]
+aV[COLOR yellow]Motores Torrent[/COLOR]
 p971
 ag6
 ag6
@@ -2050,7 +2050,7 @@ VD
 p1018
 aVBuffer
 p1019
-aV[COLOR blue]Buffer[/COLOR]
+aV[COLOR yellow]Buffer[/COLOR]
 p1020
 ag6
 ag6
@@ -2159,7 +2159,7 @@ VD
 p1072
 aVPH
 p1073
-aV[COLOR blue]Programas y Herramientas[/COLOR]
+aV[COLOR yellow]Programas y Herramientas[/COLOR]
 p1074
 ag6
 ag6
@@ -2278,7 +2278,7 @@ VD
 p1131
 aVDCero
 p1132
-aV[COLOR blue]Desde Cero[/COLOR]
+aV[COLOR yellow]Desde Cero[/COLOR]
 p1133
 ag6
 ag6
@@ -2397,7 +2397,7 @@ VD
 p1190
 aVQJ
 p1191
-aV[COLOR blue]Quieres Jugar[/COLOR]
+aV[COLOR yellow]Quieres Jugar[/COLOR]
 p1192
 ag6
 ag6
@@ -2456,7 +2456,7 @@ VD
 p1219
 aVRepositorios
 p1220
-aV[COLOR blue]Repositorios[/COLOR]
+aV[COLOR yellow]Repositorios[/COLOR]
 p1221
 ag6
 ag6
@@ -2595,7 +2595,7 @@ VD
 p1288
 aVScripts
 p1289
-aV[COLOR blue]Scripts[/COLOR]
+aV[COLOR yellow]Scripts[/COLOR]
 p1290
 ag6
 ag6
@@ -2894,7 +2894,7 @@ VD
 p1437
 aVSkins
 p1438
-aV[COLOR blue]Skins[/COLOR]
+aV[COLOR yellow]Skins[/COLOR]
 p1439
 ag6
 ag6
@@ -2903,7 +2903,7 @@ VD
 p1441
 aVSkinsAnabel
 p1442
-aV   [COLOR blue]Skins Anabel[/COLOR]
+aV   [COLOR yellow]Skins Anabel[/COLOR]
 p1443
 ag6
 ag6

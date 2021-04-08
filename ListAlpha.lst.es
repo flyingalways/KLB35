@@ -4,7 +4,7 @@ VD
 p2
 aS'Otros'
 p3
-aV[COLOR blue]Otros[/COLOR]
+aV[COLOR yellow]Otros[/COLOR]
 p4
 aS''
 p5
@@ -14,7 +14,7 @@ VD
 p7
 aS'A'
 p8
-aV[COLOR blue]A[/COLOR]
+aV[COLOR yellow]A[/COLOR]
 p9
 ag5
 ag5
@@ -243,7 +243,7 @@ VD
 p121
 aS'B'
 p122
-aV[COLOR blue]B[/COLOR]
+aV[COLOR yellow]B[/COLOR]
 p123
 ag5
 ag5
@@ -322,7 +322,7 @@ VD
 p160
 aS'C'
 p161
-aV[COLOR blue]C[/COLOR]
+aV[COLOR yellow]C[/COLOR]
 p162
 ag5
 ag5
@@ -541,7 +541,7 @@ VD
 p269
 aS'D'
 p270
-aV[COLOR blue]D[/COLOR]
+aV[COLOR yellow]D[/COLOR]
 p271
 ag5
 ag5
@@ -640,7 +640,7 @@ VD
 p318
 aS'E'
 p319
-aV[COLOR blue]E[/COLOR]
+aV[COLOR yellow]E[/COLOR]
 p320
 ag5
 ag5
@@ -749,7 +749,7 @@ VD
 p372
 aS'F'
 p373
-aV[COLOR blue]F[/COLOR]
+aV[COLOR yellow]F[/COLOR]
 p374
 ag5
 ag5
@@ -848,7 +848,7 @@ VD
 p421
 aS'G'
 p422
-aV[COLOR blue]G[/COLOR]
+aV[COLOR yellow]G[/COLOR]
 p423
 ag5
 ag5
@@ -897,7 +897,7 @@ VD
 p445
 aS'H'
 p446
-aV[COLOR blue]H[/COLOR]
+aV[COLOR yellow]H[/COLOR]
 p447
 ag5
 ag5
@@ -946,7 +946,7 @@ VD
 p469
 aS'I'
 p470
-aV[COLOR blue]I[/COLOR]
+aV[COLOR yellow]I[/COLOR]
 p471
 ag5
 ag5
@@ -1005,7 +1005,7 @@ VD
 p498
 aS'J'
 p499
-aV[COLOR blue]J[/COLOR]
+aV[COLOR yellow]J[/COLOR]
 p500
 ag5
 ag5
@@ -1024,7 +1024,7 @@ VD
 p507
 aS'K'
 p508
-aV[COLOR blue]K[/COLOR]
+aV[COLOR yellow]K[/COLOR]
 p509
 ag5
 ag5
@@ -1063,7 +1063,7 @@ VD
 p526
 aS'L'
 p527
-aV[COLOR blue]L[/COLOR]
+aV[COLOR yellow]L[/COLOR]
 p528
 ag5
 ag5
@@ -1132,7 +1132,7 @@ VD
 p560
 aS'M'
 p561
-aV[COLOR blue]M[/COLOR]
+aV[COLOR yellow]M[/COLOR]
 p562
 ag5
 ag5
@@ -1341,7 +1341,7 @@ VD
 p664
 aS'N'
 p665
-aV[COLOR blue]N[/COLOR]
+aV[COLOR yellow]N[/COLOR]
 p666
 ag5
 ag5
@@ -1390,7 +1390,7 @@ VD
 p688
 aS'O'
 p689
-aV[COLOR blue]O[/COLOR]
+aV[COLOR yellow]O[/COLOR]
 p690
 ag5
 ag5
@@ -1459,7 +1459,7 @@ VD
 p722
 aS'P'
 p723
-aV[COLOR blue]P[/COLOR]
+aV[COLOR yellow]P[/COLOR]
 p724
 ag5
 ag5
@@ -1578,7 +1578,7 @@ VD
 p781
 aS'Q'
 p782
-aV[COLOR blue]Q[/COLOR]
+aV[COLOR yellow]Q[/COLOR]
 p783
 ag5
 ag5
@@ -1597,7 +1597,7 @@ VD
 p790
 aS'R'
 p791
-aV[COLOR blue]R[/COLOR]
+aV[COLOR yellow]R[/COLOR]
 p792
 ag5
 ag5
@@ -1886,7 +1886,7 @@ VD
 p934
 aS'S'
 p935
-aV[COLOR blue]S[/COLOR]
+aV[COLOR yellow]S[/COLOR]
 p936
 ag5
 ag5
@@ -2115,7 +2115,7 @@ VD
 p1048
 aS'T'
 p1049
-aV[COLOR blue]T[/COLOR]
+aV[COLOR yellow]T[/COLOR]
 p1050
 ag5
 ag5
@@ -2274,7 +2274,7 @@ VD
 p1127
 aS'U'
 p1128
-aV[COLOR blue]U[/COLOR]
+aV[COLOR yellow]U[/COLOR]
 p1129
 ag5
 ag5
@@ -2313,7 +2313,7 @@ VD
 p1146
 aS'V'
 p1147
-aV[COLOR blue]V[/COLOR]
+aV[COLOR yellow]V[/COLOR]
 p1148
 ag5
 ag5
@@ -2362,7 +2362,7 @@ VD
 p1170
 aS'W'
 p1171
-aV[COLOR blue]W[/COLOR]
+aV[COLOR yellow]W[/COLOR]
 p1172
 ag5
 ag5
@@ -2381,7 +2381,7 @@ VD
 p1179
 aS'X'
 p1180
-aV[COLOR blue]X[/COLOR]
+aV[COLOR yellow]X[/COLOR]
 p1181
 ag5
 ag5
@@ -2420,7 +2420,7 @@ VD
 p1198
 aS'Y'
 p1199
-aV[COLOR blue]Y[/COLOR]
+aV[COLOR yellow]Y[/COLOR]
 p1200
 ag5
 ag5
@@ -2459,7 +2459,7 @@ VD
 p1217
 aS'Z'
 p1218
-aV[COLOR blue]Z[/COLOR]
+aV[COLOR yellow]Z[/COLOR]
 p1219
 ag5
 ag5
