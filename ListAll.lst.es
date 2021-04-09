@@ -94,7 +94,7 @@ aVVisLog
 p46
 aV      [COLOR yellow]Visualización Log[/COLOR]
 p47
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/logoptions.crypt
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/logoptions.bin
 p48
 ag6
 aa(lp49
@@ -104,7 +104,7 @@ aVAnaLog
 p51
 aV      [COLOR yellow]Análisis Log[/COLOR]
 p52
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/analog.crypt
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/analog.bin
 p53
 ag6
 aa(lp54
@@ -132,7 +132,7 @@ aVSaveSYT
 p64
 aV         Copia Settings YouTube
 p65
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/saveytsettings.crypt
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/saveytsettings.bin
 p66
 ag6
 aa(lp67
@@ -142,7 +142,7 @@ aVRestoreSYT
 p69
 aV         Restaura Settings YouTube
 p70
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/restoreytsettings.crypt
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/restoreytsettings.bin
 p71
 ag6
 aa(lp72
@@ -161,7 +161,7 @@ aVSaveSGD
 p78
 aV         Copia Settings GDrive
 p79
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/savegdsettings.crypt
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/savegdsettings.bin
 p80
 ag6
 aa(lp81
@@ -171,7 +171,7 @@ aVRestoreSGD
 p83
 aV         Restaura Settings GDrive
 p84
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/restoregdsettings.crypt
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/restoregdsettings.bin
 p85
 ag6
 aa(lp86
@@ -328,7 +328,7 @@ aVAceMediaAndroid
 p165
 aV         AceStream Media Android
 p166
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.crypt,https://archive.org/download/betternethotspotvpnv5.2.2premium/AceStream_MOD_ver3-3.1.48.0-armv7.apk,AceStream_Media_Android,False
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.bin,https://archive.org/download/betternethotspotvpnv5.2.2premium/AceStream_MOD_ver3-3.1.48.0-armv7.apk,AceStream_Media_Android,False
 p167
 ag6
 aa(lp168
@@ -367,7 +367,7 @@ aVDNSChangerPro-Android
 p184
 aV         DNS Changer PRO Android
 p185
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.crypt,https://archive.org/download/dnschanger-pro/DNSChangerPRO.apk,DNS-Changer,False
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.bin,https://archive.org/download/dnschanger-pro/DNSChangerPRO.apk,DNS-Changer,False
 p186
 ag6
 aa(lp187
@@ -377,7 +377,7 @@ aVVPNhub-Android
 p189
 aV         VPNhub Android
 p190
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.crypt,https://ia601500.us.archive.org/2/items/vpnhub/VPNhub_PREMIUM_v2.14.2.apk,VPNhub,False
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.bin,https://ia601500.us.archive.org/2/items/vpnhub/VPNhub_PREMIUM_v2.14.2.apk,VPNhub,False
 p191
 ag6
 aa(lp192
@@ -387,7 +387,7 @@ aVHideMe-Android
 p194
 aV         HideMe VPN Fire Stick
 p195
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.crypt,https://archive.org/download/hide-me/HideMe.apk,HideMe,False
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.bin,https://archive.org/download/hide-me/HideMe.apk,HideMe,False
 p196
 ag6
 aa(lp197
@@ -397,7 +397,7 @@ aVHotspotShieldBasic-Android
 p199
 aV         HotSpot Shield Basic Android
 p200
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.crypt,https://archive.org/download/betternethotspotvpnv5.2.2premium/Hotspot%20Shield%20Basic%20Free%20VPN%20v6.1.0.apk-Android,False
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.bin,https://archive.org/download/betternethotspotvpnv5.2.2premium/Hotspot%20Shield%20Basic%20Free%20VPN%20v6.1.0.apk-Android,False
 p201
 ag6
 aa(lp202
@@ -407,7 +407,7 @@ aVBetternetHotspot-Android
 p204
 aV         Betternet Hotspot Android
 p205
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.crypt,https://archive.org/download/betternet_202006/Betternet.apk,BetternetHotspot-Android,False
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.bin,https://archive.org/download/betternet_202006/Betternet.apk,BetternetHotspot-Android,False
 p206
 ag6
 aa(lp207
@@ -417,7 +417,7 @@ aVRiseupVPN-Android
 p209
 aV         RiseupVPN Android
 p210
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.crypt,https://archive.org/download/betternethotspotvpnv5.2.2premium/RiseupVPN-Android-latest.apk,RiseupVPN-Android,False
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.bin,https://archive.org/download/betternethotspotvpnv5.2.2premium/RiseupVPN-Android-latest.apk,RiseupVPN-Android,False
 p211
 ag6
 aa(lp212
@@ -427,7 +427,7 @@ aVHotspotShield-Windows
 p214
 aV         HotSpot Shield  Android
 p215
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.crypt,https://archive.org/download/betternethotspotvpnv5.2.2premium/HotspotShield-8.7.1-plain-773-plain.exe,Windows,False
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.bin,https://archive.org/download/betternethotspotvpnv5.2.2premium/HotspotShield-8.7.1-plain-773-plain.exe,Windows,False
 p216
 ag6
 aa(lp217
@@ -437,7 +437,7 @@ aVUrbanVPN-Windows
 p219
 aV         UrbanVPN_Windows
 p220
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.crypt,https://archive.org/download/urban-vpn-para-windows_20201023/UrbanVPN%20para%20Windows.exe,Windows,False
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.bin,https://archive.org/download/urban-vpn-para-windows_20201023/UrbanVPN%20para%20Windows.exe,Windows,False
 p221
 ag6
 aa(lp222
@@ -466,7 +466,7 @@ aVMousetoggle
 p233
 aV         MouseToggle
 p234
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.crypt,https://archive.org/download/betternethotspotvpnv5.2.2premium/Mouse_Toggle_for_Android_TV-1.52.apk,Mousetoggle,False
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.bin,https://archive.org/download/betternethotspotvpnv5.2.2premium/Mouse_Toggle_for_Android_TV-1.52.apk,Mousetoggle,False
 p235
 ag6
 aa(lp236
@@ -476,7 +476,7 @@ aVSetOrientation
 p238
 aV         SetOrientation
 p239
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.crypt,https://archive.org/download/betternethotspotvpnv5.2.2premium/Set%20Orientation_v1.1.4_apkpure.com.apk,SetOrientation,False
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.bin,https://archive.org/download/betternethotspotvpnv5.2.2premium/Set%20Orientation_v1.1.4_apkpure.com.apk,SetOrientation,False
 p240
 ag6
 aa(lp241
@@ -486,7 +486,7 @@ aVYatse
 p243
 aV      Yatse Patch
 p244
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.crypt,https://archive.org/download/betternethotspotvpnv5.2.2premium/Yatse.v.8.5.5a.b.210654.crk.Custom.Patch.apk,Yatse-Patch,False
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/down_inst.bin,https://archive.org/download/betternethotspotvpnv5.2.2premium/Yatse.v.8.5.5a.b.210654.crk.Custom.Patch.apk,Yatse-Patch,False
 p245
 ag6
 aa(lp246
