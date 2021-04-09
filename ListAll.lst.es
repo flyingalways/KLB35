@@ -505,7 +505,7 @@ aVCopia
 p252
 aV      Realizar Copia de Seguridad
 p253
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/backup.crypt
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/backup.bin
 p254
 ag6
 aa(lp255
@@ -515,7 +515,7 @@ aVRestaura
 p257
 aV      Restaurar Copia de Seguridad
 p258
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/restore.crypt
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/restore.bin
 p259
 ag6
 aa(lp260
@@ -2180,7 +2180,7 @@ aVEN_ISARTMP
 p1082
 aV      Habilita InputStream Adaptive y InputStream RTMP
 p1083
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/enable_isartmp.crypt
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/enable_isartmp.bin
 p1084
 ag6
 aa(lp1085
