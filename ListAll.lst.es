@@ -234,7 +234,7 @@ aVConfResolveUrl
 p116
 aV      Configurar ResolveUrl
 p117
-aVAjustes, Sistema, Addons, Gestionar Dependencias. Asegúrate de estar en modo experto.\u000a\u000a    Con esta configuración vas a poder elegir diferente calidad en addons
+aVAjustes, Sistema, Addons, Gestionar Dependencias. Asegúrate de estar en modo experto.\u000a\u000a    Con esta configuración vas a poder elegir diferente calidad en addons
 p118
 aVhttps://archive.org/download/idioma_202010/configurar-resolveurl.mp4
 p119
@@ -1069,7 +1069,7 @@ VZ
 p532
 aVApex
 p533
-aV      Apex Sports matrix
+aV      [COLOR 0xFF33FF99]Apex Sports matrix[/COLOR]
 p534
 aVhttps://arxtic-ape.github.io/repository.arxtic-ape-1.0.0.zip
 p535

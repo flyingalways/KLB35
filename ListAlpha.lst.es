@@ -43,7 +43,7 @@ VZ
 p21
 aVApex
 p22
-aV      Apex Sports matrix
+aV      [COLOR 0xFF33FF99]Apex Sports matrix[/COLOR]
 p23
 aVhttps://arxtic-ape.github.io/repository.arxtic-ape-1.0.0.zip
 p24
