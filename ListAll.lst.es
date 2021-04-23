@@ -64,7 +64,7 @@ VB
 p32
 aVLThumbnails
 p33
-aV      Eliminar Imágenes
+aV      Eliminar Imagenes
 p34
 aVuserdata/Thumbnails
 p35
