@@ -234,7 +234,7 @@ aVConfResolveUrl
 p116
 aV      Configurar ResolveUrl
 p117
-aVAjustes, Sistema, Addons, Gestionar Dependencias. Asegúrate de estar en modo experto.\u000a\u000a    Con esta configuración vas a poder elegir diferente calidad en addons
+aVAjustes, Sistema, Addons, Gestionar Dependencias. Asegúrate de estar en modo experto.\u000a\u000a    Con esta configuración vas a poder elegir diferente calidad en addons
 p118
 aVhttps://archive.org/download/idioma_202010/configurar-resolveurl.mp4
 p119
@@ -602,7 +602,7 @@ VZ
 p300
 aVChopoCine
 p301
-aV      ChopoCine
+aV      [COLOR 0xFF33FF99]ChopoCine[/COLOR]
 p302
 aVhttps://fuente-tvchopo.github.io/tvchopo/plugin.video.chopocine-6.zip
 p303
@@ -664,7 +664,7 @@ aVAlfa
 p331
 aV      [COLOR 0xFF33FF99]Alfa[/COLOR]
 p332
-aVhttps://github.com/alfa-addon/alfa-repo/raw/master/plugin.video.alfa/plugin.video.alfa-3.3.17.zip
+aVhttps://github.com/alfa-addon/alfa-repo/raw/master/plugin.video.alfa/plugin.video.alfa-3.4.0.zip
 p333
 ag6
 aa(lp334

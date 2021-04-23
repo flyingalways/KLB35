@@ -75,7 +75,7 @@ aVAlfa
 p37
 aV      [COLOR 0xFF33FF99]Alfa[/COLOR]
 p38
-aVhttps://github.com/alfa-addon/alfa-repo/raw/master/plugin.video.alfa/plugin.video.alfa-3.3.17.zip
+aVhttps://github.com/alfa-addon/alfa-repo/raw/master/plugin.video.alfa/plugin.video.alfa-3.4.0.zip
 p39
 ag5
 aa(lp40
@@ -371,7 +371,7 @@ VZ
 p184
 aVChopoCine
 p185
-aV      ChopoCine
+aV      [COLOR 0xFF33FF99]ChopoCine[/COLOR]
 p186
 aVhttps://fuente-tvchopo.github.io/tvchopo/plugin.video.chopocine-6.zip
 p187
