@@ -136,13 +136,13 @@ aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/saveytsettings.py
 p66
 ag6
 aa(lp67
-VR
+VX
 p68
 aVRestoreSYT
 p69
 aV         Restaura Settings YouTube
 p70
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/restoreytsettings.bin
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/restoreytsettings.py
 p71
 ag6
 aa(lp72
@@ -165,13 +165,13 @@ aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/savegdsettings.py
 p80
 ag6
 aa(lp81
-VR
+VX
 p82
 aVRestoreSGD
 p83
 aV         Restaura Settings GDrive
 p84
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/restoregdsettings.bin
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/restoregdsettings.py
 p85
 ag6
 aa(lp86
@@ -509,13 +509,13 @@ aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/backup.py
 p254
 ag6
 aa(lp255
-VR
+VX
 p256
 aVRestaura
 p257
 aV      Restaurar Copia de Seguridad
 p258
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/restore.bin
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/restore.py
 p259
 ag6
 aa(lp260
