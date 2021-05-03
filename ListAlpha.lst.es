@@ -997,7 +997,7 @@ aVIAGL
 p494
 aV      [COLOR 0xFF33FF99]IAGL (Internet Archive Game Launcher)[/COLOR]
 p495
-aVhttps://github.com/zach-morris/repository.zachmorris/blob/master/plugin.program.iagl/plugin.program.iagl-2.1.4.zip
+aVhttps://github.com/zach-morris/repository.zachmorris/raw/master/plugin.program.iagl/plugin.program.iagl-2.1.2.zip
 p496
 ag5
 aa(lp497

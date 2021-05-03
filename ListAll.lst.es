@@ -2428,7 +2428,7 @@ aVIAGL
 p1205
 aV      [COLOR 0xFF33FF99]IAGL (Internet Archive Game Launcher)[/COLOR]
 p1206
-aVhttps://github.com/zach-morris/repository.zachmorris/blob/master/plugin.program.iagl/plugin.program.iagl-2.1.4.zip
+aVhttps://github.com/zach-morris/repository.zachmorris/raw/master/plugin.program.iagl/plugin.program.iagl-2.1.2.zip
 p1207
 ag6
 aa(lp1208
