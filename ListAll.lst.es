@@ -126,23 +126,23 @@ p61
 ag6
 ag6
 aa(lp62
-VR
+VX
 p63
 aVSaveSYT
 p64
 aV         Copia Settings YouTube
 p65
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/saveytsettings.bin
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/saveytsettings.py
 p66
 ag6
 aa(lp67
-VR
+VX
 p68
 aVRestoreSYT
 p69
 aV         Restaura Settings YouTube
 p70
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/restoreytsettings.bin
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/restoreytsettings.py
 p71
 ag6
 aa(lp72
@@ -155,23 +155,23 @@ p75
 ag6
 ag6
 aa(lp76
-VR
+VX
 p77
 aVSaveSGD
 p78
 aV         Copia Settings GDrive
 p79
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/savegdsettings.bin
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/savegdsettings.py
 p80
 ag6
 aa(lp81
-VR
+VX
 p82
 aVRestoreSGD
 p83
 aV         Restaura Settings GDrive
 p84
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/restoregdsettings.bin
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/restoregdsettings.py
 p85
 ag6
 aa(lp86
@@ -234,7 +234,7 @@ aVConfResolveUrl
 p116
 aV      Configurar ResolveUrl
 p117
-aVAjustes, Sistema, Addons, Gestionar Dependencias. Asegúrate de estar en modo experto.\u000a\u000a    Con esta configuración vas a poder elegir diferente calidad en addons
+aVAjustes, Sistema, Addons, Gestionar Dependencias. Asegúrate de estar en modo experto.\u000a\u000a    Con esta configuración vas a poder elegir diferente calidad en addons
 p118
 aVhttps://archive.org/download/idioma_202010/configurar-resolveurl.mp4
 p119
@@ -499,23 +499,23 @@ p249
 ag6
 ag6
 aa(lp250
-VR
+VX
 p251
 aVCopia
 p252
 aV      Realizar Copia de Seguridad
 p253
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/backup.bin
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/backup.py
 p254
 ag6
 aa(lp255
-VR
+VX
 p256
 aVRestaura
 p257
 aV      Restaurar Copia de Seguridad
 p258
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/restore.bin
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/restore.py
 p259
 ag6
 aa(lp260
