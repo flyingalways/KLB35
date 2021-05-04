@@ -2411,9 +2411,9 @@ VZ
 p1194
 aVWinner
 p1195
-aV      Winner
+aV      [COLOR 0xFF33FF99]Winner[/COLOR]
 p1196
-aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.winner-1.0.5.zip
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.winner.zip
 p1197
 ag5
 aa(lp1198
