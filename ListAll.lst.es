@@ -234,7 +234,7 @@ aVConfResolveUrl
 p116
 aV      Configurar ResolveUrl
 p117
-aVAjustes, Sistema, Addons, Gestionar Dependencias. Asegúrate de estar en modo experto.\u000a\u000a    Con esta configuración vas a poder elegir diferente calidad en addons
+aVAjustes, Sistema, Addons, Gestionar Dependencias. Asegúrate de estar en modo experto.\u000a\u000a    Con esta configuración vas a poder elegir diferente calidad en addons
 p118
 aVhttps://archive.org/download/idioma_202010/configurar-resolveurl.mp4
 p119
@@ -674,7 +674,7 @@ aVAlfa
 p336
 aV      [COLOR 0xFF33FF99]Alfa[/COLOR]
 p337
-aVhttps://github.com/alfa-addon/alfa-repo/raw/master/plugin.video.alfa/plugin.video.alfa-3.4.1.zip
+aVhttps://github.com/alfa-addon/alfa-repo/raw/master/plugin.video.alfa/plugin.video.alfa-3.4.2.zip
 p338
 ag6
 aa(lp339
