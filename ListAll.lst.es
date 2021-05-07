@@ -2339,7 +2339,7 @@ aVResolveURL
 p1161
 aV      [COLOR 0xFF33FF99]ResolveURL[/COLOR]
 p1162
-aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.resolveurl-5.1.27.zip
+aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.resolveurl-5.1.30.zip
 p1163
 ag6
 aa(lp1164
@@ -2349,7 +2349,7 @@ aVURLResolver
 p1166
 aV      URLResolver
 p1167
-aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.0.01.zip
+aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.1.00.zip
 p1168
 ag6
 aa(lp1169
@@ -2682,379 +2682,369 @@ ag6
 aa(lp1331
 VZ
 p1332
-aVArtwork
+aVUpnext
 p1333
-aV      Artwork Beef
+aV      [COLOR 0xFF33FF99]Upnext[/COLOR]
 p1334
-aVhttps://github.com/Palantiraddon/Repo/raw/master/Palantir/script.artwork.beef/script.artwork.beef-0.26.0.zip
+aVhttps://mirrors.kodi.tv/addons/leia/service.upnext/service.upnext-1.1.5.zip
 p1335
 ag6
 aa(lp1336
 VZ
 p1337
-aVUpnext
+aVcfscrape
 p1338
-aV      [COLOR 0xFF33FF99]Upnext[/COLOR]
+aV      cfscrape
 p1339
-aVhttps://mirrors.kodi.tv/addons/leia/service.upnext/service.upnext-1.1.5.zip
+aVhttps://newuser1978.github.io/klb/klb/script.module.cfscrape-master.zip
 p1340
 ag6
 aa(lp1341
 VZ
 p1342
-aVcfscrape
+aVF4MTester
 p1343
-aV      cfscrape
+aV      F4M Tester
 p1344
-aVhttps://newuser1978.github.io/klb/klb/script.module.cfscrape-master.zip
+aVhttps://kodiadictos.github.io/fuente/Addons%20Deportes/dependencias.1x2/2plugin.video.f4mTester-2.7.2.zip
 p1345
 ag6
 aa(lp1346
 VZ
 p1347
-aVF4MTester
+aVcommoncache
 p1348
-aV      F4M Tester
+aV      Common Cache
 p1349
-aVhttps://kodiadictos.github.io/fuente/Addons%20Deportes/dependencias.1x2/2plugin.video.f4mTester-2.7.2.zip
+aVhttp://mirrors.kodi.tv/addons/leia/script.common.plugin.cache/script.common.plugin.cache-2.6.1.zip
 p1350
 ag6
 aa(lp1351
 VZ
 p1352
-aVcommoncache
+aVExtendedInfo
 p1353
-aV      Common Cache
+aV      Extended Info
 p1354
-aVhttp://mirrors.kodi.tv/addons/leia/script.common.plugin.cache/script.common.plugin.cache-2.6.1.zip
+aVhttps://mirrors.kodi.tv/addons/leia/script.extendedinfo/script.extendedinfo-5.6.0.zip
 p1355
 ag6
 aa(lp1356
 VZ
 p1357
-aVExtendedInfo
+aVglobalsearch
 p1358
-aV      Extended Info
+aV      Global Search
 p1359
-aVhttps://mirrors.kodi.tv/addons/leia/script.extendedinfo/script.extendedinfo-5.6.0.zip
+aVhttps://mirrors.kodi.tv/addons/leia/script.globalsearch/script.globalsearch-8.0.13.zip
 p1360
 ag6
 aa(lp1361
 VZ
 p1362
-aVglobalsearch
+aVaddoncommon
 p1363
-aV      Global Search
+aV      Addon Common
 p1364
-aVhttps://mirrors.kodi.tv/addons/leia/script.globalsearch/script.globalsearch-8.0.13.zip
+aVhttp://mirrors.kodi.tv/addons/leia/script.module.addon.common/script.module.addon.common-2.0.0.zip
 p1365
 ag6
 aa(lp1366
 VZ
 p1367
-aVaddoncommon
+aVcherrypy
 p1368
-aV      Addon Common
+aV      Cherrypy
 p1369
-aVhttp://mirrors.kodi.tv/addons/leia/script.module.addon.common/script.module.addon.common-2.0.0.zip
+aVhttps://mariposa19.github.io/kelebek/Scripts/script.module.cherrypy.zip
 p1370
 ag6
 aa(lp1371
 VZ
 p1372
-aVcherrypy
+aVcryptopy
 p1373
-aV      Cherrypy
+aV      Cryptopy
 p1374
-aVhttps://mariposa19.github.io/kelebek/Scripts/script.module.cherrypy.zip
+aVhttps://newuser1978.github.io/klb/klb/script.module.cryptopy-1.2.6.zip
 p1375
 ag6
 aa(lp1376
 VZ
 p1377
-aVcryptopy
+aVlibtorrent
 p1378
-aV      Cryptopy
+aV      Libtorrent
 p1379
-aVhttps://newuser1978.github.io/klb/klb/script.module.cryptopy-1.2.6.zip
+aVhttps://fuentekodileia.github.io/torrenter/script.module.libtorrent-1.1.1c.zip
 p1380
 ag6
 aa(lp1381
 VZ
 p1382
-aVlibtorrent
+aVliveresolver
 p1383
-aV      Libtorrent
+aV      Liveresolver
 p1384
-aVhttps://fuentekodileia.github.io/torrenter/script.module.libtorrent-1.1.1c.zip
+aVhttps://fuentekodileia.github.io/scripts/script.module.liveresolver.zip
 p1385
 ag6
 aa(lp1386
 VZ
 p1387
-aVliveresolver
+aVmetahandler
 p1388
-aV      Liveresolver
+aV      Metahandler
 p1389
-aVhttps://fuentekodileia.github.io/scripts/script.module.liveresolver.zip
+aVhttp://mirrors.kodi.tv/addons/leia/script.module.metahandler/script.module.metahandler-2.9.0.zip
 p1390
 ag6
 aa(lp1391
 VZ
 p1392
-aVmetahandler
+aVResolveURL
 p1393
-aV      Metahandler
+aV      [COLOR 0xFF33FF99]ResolveURL[/COLOR]
 p1394
-aVhttp://mirrors.kodi.tv/addons/leia/script.module.metahandler/script.module.metahandler-2.9.0.zip
+aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.resolveurl-5.1.30.zip
 p1395
 ag6
 aa(lp1396
 VZ
 p1397
-aVResolveURL
+aVSimpleDownloader
 p1398
-aV      [COLOR 0xFF33FF99]ResolveURL[/COLOR]
+aV      Simple Downloader
 p1399
-aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.resolveurl-5.1.27.zip
+aVhttp://mirrors.kodi.tv/addons/leia/script.module.simple.downloader/script.module.simple.downloader-1.9.5.zip
 p1400
 ag6
 aa(lp1401
 VZ
 p1402
-aVSimpleDownloader
+aVSix
 p1403
-aV      Simple Downloader
+aV      Six
 p1404
-aVhttp://mirrors.kodi.tv/addons/leia/script.module.simple.downloader/script.module.simple.downloader-1.9.5.zip
+aVhttp://mirrors.kodi.tv/addons/leia/script.module.six/script.module.six-1.13.0.zip
 p1405
 ag6
 aa(lp1406
 VZ
 p1407
-aVSix
+aVURLResolver
 p1408
-aV      Six
+aV      Urlresolver
 p1409
-aVhttp://mirrors.kodi.tv/addons/leia/script.module.six/script.module.six-1.13.0.zip
+aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.1.00.zip
 p1410
 ag6
 aa(lp1411
 VZ
 p1412
-aVURLResolver
+aVyoutubedll
 p1413
-aV      Urlresolver
+aV      Youtubedll
 p1414
-aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.0.01.zip
+aVhttps://fuentekodileia.github.io/scripts/script.module.youtube.dl.zip
 p1415
 ag6
 aa(lp1416
 VZ
 p1417
-aVyoutubedll
+aVSCSkinHS
 p1418
-aV      Youtubedll
+aV      Skin Helper Service
 p1419
-aVhttps://fuentekodileia.github.io/scripts/script.module.youtube.dl.zip
+aVhttp://mirrors.kodi.tv/addons/leia/script.skin.helper.service/script.skin.helper.service-1.1.3.zip
 p1420
 ag6
 aa(lp1421
 VZ
 p1422
-aVSCSkinHS
+aVF4MProxy
 p1423
-aV      Skin Helper Service
+aV      F4M Proxy
 p1424
-aVhttp://mirrors.kodi.tv/addons/leia/script.skin.helper.service/script.skin.helper.service-1.1.3.zip
+aVhttps://kodiadictos.github.io/fuente/Scriptss/script.video.F4mProxy-2.8.8.zip
 p1425
 ag6
 aa(lp1426
 VZ
 p1427
-aVF4MProxy
+aVxbmcpython
 p1428
-aV      F4M Proxy
+aV      Xbmc python
 p1429
-aVhttps://kodiadictos.github.io/fuente/Scriptss/script.video.F4mProxy-2.8.8.zip
+aVhttps://newuser1978.github.io/klb/klb/xbmc.python-2.25.0.zip
 p1430
 ag6
 aa(lp1431
 VZ
 p1432
-aVxbmcpython
+aVxmltodict
 p1433
-aV      Xbmc python
+aV      xmltodict
 p1434
-aVhttps://newuser1978.github.io/klb/klb/xbmc.python-2.25.0.zip
+aVhttp://mirrors.kodi.tv/addons/leia/script.module.xmltodict/script.module.xmltodict-0.11.0.zip
 p1435
 ag6
 aa(lp1436
 VZ
 p1437
-aVxmltodict
+aVmyconnpy
 p1438
-aV      xmltodict
+aV      myconnpy
 p1439
-aVhttp://mirrors.kodi.tv/addons/leia/script.module.xmltodict/script.module.xmltodict-0.11.0.zip
+aVhttp://mirrors.kodi.tv/addons/leia/script.module.myconnpy/script.module.myconnpy-1.1.7.zip
 p1440
 ag6
 aa(lp1441
 VZ
 p1442
-aVmyconnpy
+aVKodi65
 p1443
-aV      myconnpy
+aV      Script Module Kodi65
 p1444
-aVhttp://mirrors.kodi.tv/addons/leia/script.module.myconnpy/script.module.myconnpy-1.1.7.zip
+aVhttp://mirrors.kodi.tv/addons/leia/script.module.kodi65/script.module.kodi65-1.2.1.zip
 p1445
 ag6
 aa(lp1446
 VZ
 p1447
-aVKodi65
+aVKodiSix
 p1448
-aV      Script Module Kodi65
+aV      Script Module Kodi Six
 p1449
-aVhttp://mirrors.kodi.tv/addons/leia/script.module.kodi65/script.module.kodi65-1.2.1.zip
+aVhttps://mirrors.kodi.tv/addons/leia/script.module.kodi-six/script.module.kodi-six-0.1.3.zip
 p1450
 ag6
 aa(lp1451
-VZ
+VD
 p1452
-aVKodiSix
-p1453
-aV      Script Module Kodi Six
-p1454
-aVhttps://mirrors.kodi.tv/addons/leia/script.module.kodi-six/script.module.kodi-six-0.1.3.zip
-p1455
-ag6
-aa(lp1456
-VD
-p1457
 aVSkins
-p1458
+p1453
 aV[COLOR yellow]Skins[/COLOR]
-p1459
+p1454
 ag6
 ag6
-aa(lp1460
+aa(lp1455
 VD
-p1461
+p1456
 aVSkinsAnabel
-p1462
+p1457
 aV   [COLOR yellow]Skins Anabel[/COLOR]
-p1463
+p1458
 ag6
+ag6
+aa(lp1459
+VZ
+p1460
+aVCST
+p1461
+aV         Confluence Stranger Things
+p1462
+aVhttps://ankodi.github.io/AnKodi/Skins/skin.confluence-ST.zip
+p1463
 ag6
 aa(lp1464
 VZ
 p1465
-aVCST
+aVCMariposa
 p1466
-aV         Confluence Stranger Things
+aV         Confluence Mariposa
 p1467
-aVhttps://ankodi.github.io/AnKodi/Skins/skin.confluence-ST.zip
+aVhttps://ankodi.github.io/AnKodi/Skins/skin.confluence-mariposa.zip
 p1468
 ag6
 aa(lp1469
 VZ
 p1470
-aVCMariposa
+aVAeonLeiAnMC
 p1471
-aV         Confluence Mariposa
+aV         Aeon LeiAnMC
 p1472
-aVhttps://ankodi.github.io/AnKodi/Skins/skin.confluence-mariposa.zip
+aVD#https://ankodi.github.io/AnKodi/Skins/skin.aeon.LeiAnMC#skin.aeon.LeiAnMC
 p1473
 ag6
 aa(lp1474
 VZ
 p1475
-aVAeonLeiAnMC
+aVAeonWLeiAnMC
 p1476
-aV         Aeon LeiAnMC
+aV         Aeon WLeiAnMC
 p1477
-aVD#https://ankodi.github.io/AnKodi/Skins/skin.aeon.LeiAnMC#skin.aeon.LeiAnMC
+aVD#https://ankodi.github.io/AnKodi/Skins/skin.aeon.WLeiAnMC#skin.aeon.WLeiAnMC
 p1478
 ag6
 aa(lp1479
 VZ
 p1480
-aVAeonWLeiAnMC
+aVSkinHSKKonfluence17
 p1481
-aV         Aeon WLeiAnMC
+aV      Skin HSK Konfluence
 p1482
-aVD#https://ankodi.github.io/AnKodi/Skins/skin.aeon.WLeiAnMC#skin.aeon.WLeiAnMC
+aVD#https://ankodi.github.io/AnKodi/Skins/skin.hsk.konfluence#skin.hsk.konfluence
 p1483
 ag6
 aa(lp1484
 VZ
 p1485
-aVSkinHSKKonfluence17
+aVSkinRapierMariposa17
 p1486
-aV      Skin HSK Konfluence
+aV      Skin Rapier Mariposa 17
 p1487
-aVD#https://ankodi.github.io/AnKodi/Skins/skin.hsk.konfluence#skin.hsk.konfluence
+aVD#https://github.com/AnKodi/AnKodi/raw/master/Skins/skin.rapier-Mariposa17.zip#skin.rapier-Mariposa17
 p1488
 ag6
 aa(lp1489
 VZ
 p1490
-aVSkinRapierMariposa17
+aVSkinRapierMariposa18
 p1491
-aV      Skin Rapier Mariposa 17
+aV      Skin Rapier Mariposa 18
 p1492
-aVD#https://github.com/AnKodi/AnKodi/raw/master/Skins/skin.rapier-Mariposa17.zip#skin.rapier-Mariposa17
+aVD#https://github.com/AnKodi/AnKodi/raw/master/Skins/skin.rapier-Mariposa18(1).zip#skin.rapier-Mariposa(1)
 p1493
 ag6
 aa(lp1494
 VZ
 p1495
-aVSkinRapierMariposa18
+aVSkinKMariposa17
 p1496
-aV      Skin Rapier Mariposa 18
+aV      Skin Krypton Mariposa
 p1497
-aVD#https://github.com/AnKodi/AnKodi/raw/master/Skins/skin.rapier-Mariposa18(1).zip#skin.rapier-Mariposa(1)
+aVhttps://ankodi.github.io/AnKodi/Skins/skin.sky.krypton.mariposa.zip
 p1498
 ag6
 aa(lp1499
 VZ
 p1500
-aVSkinKMariposa17
+aVRepoArticZephyr
 p1501
-aV      Skin Krypton Mariposa
+aV      Repo Artic Zephyr
 p1502
-aVhttps://ankodi.github.io/AnKodi/Skins/skin.sky.krypton.mariposa.zip
+aVhttps://mariposa19.github.io/kelebek/Variados/repository.beatmasterrs-1.0.zip
 p1503
 ag6
 aa(lp1504
 VZ
 p1505
-aVRepoArticZephyr
+aVRepoXonfluence
 p1506
-aV      Repo Artic Zephyr
+aV      Repo Xonfluence
 p1507
-aVhttps://mariposa19.github.io/kelebek/Variados/repository.beatmasterrs-1.0.zip
+aVhttps://newuser1978.github.io/klb/klb/hellyrepo.kodi-master.zip
 p1508
 ag6
 aa(lp1509
 VZ
 p1510
-aVRepoXonfluence
-p1511
-aV      Repo Xonfluence
-p1512
-aVhttps://newuser1978.github.io/klb/klb/hellyrepo.kodi-master.zip
-p1513
-ag6
-aa(lp1514
-VZ
-p1515
 aVRepoEstuaryMod
-p1516
+p1511
 aV      Repo Estuary Mod
-p1517
+p1512
 aVhttps://newuser1978.github.io/klb/klb/repository.guilouz-1.0.3.zip
-p1518
+p1513
 ag6
 aa.
