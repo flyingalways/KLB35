@@ -1077,1974 +1077,2004 @@ ag6
 aa(lp536
 VZ
 p537
-aVApex
+aVCloud
 p538
-aV      [COLOR 0xFF33FF99]Apex Sports matrix[/COLOR]
+aV      [COLOR 0xFF33FF99]Cloud 9 Repo Dejavu[/COLOR]
 p539
-aVhttps://arxtic-ape.github.io/repository.arxtic-ape-1.0.0.zip
+aVhttps://dejavurepo.github.io/repository.DejaVu-1.0.5.zip
 p540
 ag6
 aa(lp541
 VZ
 p542
-aVRepoTorque
+aVQSports
 p543
-aV      Repo Torque
+aV      [COLOR 0xFF33FF99]Q Sports Repo Dejavu[/COLOR]
 p544
-aVhttp://ezzer-mac.com/repo/repository.EzzerMacsWizard.zip
+aVhttps://dejavurepo.github.io/repository.DejaVu-1.0.5.zip
 p545
 ag6
 aa(lp546
 VZ
 p547
-aVSports55
+aVApex
 p548
-aV      Sports 55 Classic Repo Shark
+aV      [COLOR 0xFF33FF99]Apex Sports matrix[/COLOR]
 p549
-aVhttps://shark5588.github.io/repository.sharkrepo-1.2.8.zip
+aVhttps://arxtic-ape.github.io/repository.arxtic-ape-1.0.0.zip
 p550
 ag6
 aa(lp551
 VZ
 p552
-aVTheEndZone
+aVRepoTorque
 p553
-aV      The End Zone Repo Grindhouse
+aV      Repo Torque
 p554
-aVhttp://grindhousekodi.tk/repo/repository.grindhousekodi-1.7.zip
+aVhttp://ezzer-mac.com/repo/repository.EzzerMacsWizard.zip
 p555
 ag6
 aa(lp556
 VZ
 p557
-aVSportHD
+aVSports55
 p558
-aV      [COLOR 0xFF33FF99]SportHD Repo Bugatsinho[/COLOR]
+aV      Sports 55 Classic Repo Shark
 p559
-aVhttps://kodiadictos.github.io/fuente/Repositorios/repository.bugatsinho-2.1.zip
+aVhttps://shark5588.github.io/repository.sharkrepo-1.2.8.zip
 p560
 ag6
 aa(lp561
 VZ
 p562
-aVWinner
+aVTheEndZone
 p563
-aV      [COLOR 0xFF33FF99]Winner[/COLOR]
+aV      The End Zone Repo Grindhouse
 p564
-aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.winner.zip
+aVhttp://grindhousekodi.tk/repo/repository.grindhousekodi-1.7.zip
 p565
 ag6
 aa(lp566
 VZ
 p567
-aVbasketandgo
+aVSportHD
 p568
-aV      Basket and GO
+aV      [COLOR 0xFF33FF99]SportHD Repo Bugatsinho[/COLOR]
 p569
-aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.basketandgo.zip
+aVhttps://kodiadictos.github.io/fuente/Repositorios/repository.bugatsinho-2.1.zip
 p570
 ag6
 aa(lp571
 VZ
 p572
-aVRising-Tides_Repo
+aVWinner
 p573
-aV      Rising Tides Repo
+aV      [COLOR 0xFF33FF99]Winner[/COLOR]
 p574
-aVhttp://mullafabz.xyz/Repository/repository.Rising.Tides-1.1.zip
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.winner.zip
 p575
 ag6
 aa(lp576
 VZ
 p577
-aVMotorHall
+aVbasketandgo
 p578
-aV      Motor Hall
+aV      Basket and GO
 p579
-aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.MotorHall-1.19.0.zip
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.basketandgo.zip
 p580
 ag6
 aa(lp581
 VZ
 p582
-aVTide
+aVRising-Tides_Repo
 p583
-aV      Tide
+aV      Rising Tides Repo
 p584
-aVhttps://mariposa19.github.io/kelebek/Variados/plugin.video.tide.zip
+aVhttp://mullafabz.xyz/Repository/repository.Rising.Tides-1.1.zip
 p585
 ag6
 aa(lp586
 VZ
 p587
-aVbacktothefutbol
+aVMotorHall
 p588
-aV      backtothefutbol
+aV      Motor Hall
 p589
-aVhttps://hirayasoftware.github.io/plugin.video.backtothefutbol/plugin.video.backtothefutbol-1.0.6.zip
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.MotorHall-1.19.0.zip
 p590
 ag6
 aa(lp591
 VZ
 p592
-aVRockcrusher
+aVTide
 p593
-aV      AllSportzRecaps
+aV      Tide
 p594
-aVhttp://www.rockodi.com/repository.Rockcrusher-2.8.zip
+aVhttps://mariposa19.github.io/kelebek/Variados/plugin.video.tide.zip
 p595
 ag6
 aa(lp596
 VZ
 p597
-aVPadel99
+aVbacktothefutbol
 p598
-aV      Padel99
+aV      backtothefutbol
 p599
-aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.padel99.zip
+aVhttps://hirayasoftware.github.io/plugin.video.backtothefutbol/plugin.video.backtothefutbol-1.0.6.zip
 p600
 ag6
 aa(lp601
 VZ
 p602
-aVMotor99
+aVRockcrusher
 p603
-aV      Motor99
+aV      AllSportzRecaps
 p604
-aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.motor99.zip
+aVhttp://www.rockodi.com/repository.Rockcrusher-2.8.zip
 p605
 ag6
 aa(lp606
 VZ
 p607
-aVRedBull
+aVPadel99
 p608
-aV      RedBull
+aV      Padel99
 p609
-aVhttps://newuser1978.github.io/klb/klb/plugin.video.redbull-tv.zip
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.padel99.zip
 p610
 ag6
 aa(lp611
 VZ
 p612
-aVSportsExtreme
+aVMotor99
 p613
-aV      Sports Extreme
+aV      Motor99
 p614
-aVhttps://newuser1978.github.io/klb/klb/plugin.video.sportsextreme.zip
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.motor99.zip
 p615
 ag6
 aa(lp616
 VZ
 p617
-aVSportsDevil
+aVRedBull
 p618
-aV      Sports Devil
+aV      RedBull
 p619
-aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.SportsDevil.zip
+aVhttps://newuser1978.github.io/klb/klb/plugin.video.redbull-tv.zip
 p620
 ag6
 aa(lp621
 VZ
 p622
-aVSportsWA
+aVSportsExtreme
 p623
-aV      Sports WA
+aV      Sports Extreme
 p624
-aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.PLsportowo-2.0.4.zip
+aVhttps://newuser1978.github.io/klb/klb/plugin.video.sportsextreme.zip
 p625
 ag6
 aa(lp626
-VD
+VZ
 p627
-aVCyC
+aVSportsDevil
 p628
-aV[COLOR yellow]Culturales y Curiosos[/COLOR]
+aV      Sports Devil
 p629
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.SportsDevil.zip
+p630
 ag6
-ag6
-aa(lp630
+aa(lp631
 VZ
-p631
-aVEnjoyTheSilence
 p632
-aV      Enjoy the Silence
+aVSportsWA
 p633
-aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.enjoythesilence.zip
+aV      Sports WA
 p634
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.PLsportowo-2.0.4.zip
+p635
 ag6
-aa(lp635
-VZ
-p636
-aVOVNI
+aa(lp636
+VD
 p637
-aV      OVNI
+aVCyC
 p638
-aVhttps://kodiadictos.github.io/fuente/Addons%20Video/plugin.video.ovni-0.0.1.zip
+aV[COLOR yellow]Culturales y Curiosos[/COLOR]
 p639
+ag6
 ag6
 aa(lp640
 VZ
 p641
-aVALMA
+aVEnjoyTheSilence
 p642
-aV      ALMA
+aV      Enjoy the Silence
 p643
-aVhttps://newuser1978.github.io/klb/klb/plugin.video.alma-2.0.zip
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.enjoythesilence.zip
 p644
 ag6
 aa(lp645
 VZ
 p646
-aVMUNDOOSCURO
+aVOVNI
 p647
-aV      MUNDO OSCURO
+aV      OVNI
 p648
-aVhttps://newuser1978.github.io/klb/klb/plugin.video.MundoOscuro-0.0.1.zip
+aVhttps://kodiadictos.github.io/fuente/Addons%20Video/plugin.video.ovni-0.0.1.zip
 p649
 ag6
 aa(lp650
-VD
+VZ
 p651
-aVDC
+aVALMA
 p652
-aV[COLOR yellow]Capacidades Diferentes[/COLOR]
+aV      ALMA
 p653
+aVhttps://newuser1978.github.io/klb/klb/plugin.video.alma-2.0.zip
+p654
 ag6
-ag6
-aa(lp654
+aa(lp655
 VZ
-p655
-aVInklusion
 p656
-aV      Inklusion
+aVMUNDOOSCURO
 p657
-aVhttps://fuentekodileia.github.io/addon-inclusivo/plugin.video.festa.inklusion-0.0.1.zip
+aV      MUNDO OSCURO
 p658
+aVhttps://newuser1978.github.io/klb/klb/plugin.video.MundoOscuro-0.0.1.zip
+p659
 ag6
-aa(lp659
+aa(lp660
 VD
-p660
-aVVariados
 p661
-aV[COLOR yellow]Variados[/COLOR]
+aVDC
 p662
+aV[COLOR yellow]Capacidades Diferentes[/COLOR]
+p663
 ag6
 ag6
-aa(lp663
+aa(lp664
 VZ
-p664
-aVBodyGym
 p665
-aV      Body Gym
+aVInklusion
 p666
-aVhttps://mariposa19.github.io/kelebek/Variados/plugin.video.BodyGym.zip
+aV      Inklusion
 p667
+aVhttps://fuentekodileia.github.io/addon-inclusivo/plugin.video.festa.inklusion-0.0.1.zip
+p668
 ag6
-aa(lp668
-VZ
-p669
-aVSedalyPosta
+aa(lp669
+VD
 p670
-aV      Sedal y Posta
+aVVariados
 p671
-aVhttps://mariposa19.github.io/kelebek/Variados/plugin.video.SedalyPosta.zip
+aV[COLOR yellow]Variados[/COLOR]
 p672
+ag6
 ag6
 aa(lp673
 VZ
 p674
-aVPVYoutube
+aVBodyGym
 p675
-aV      [COLOR 0xFF33FF99]Plugin Video Youtube[/COLOR]
+aV      Body Gym
 p676
-aVhttps://mirrors.kodi.tv/addons/leia/plugin.video.youtube/plugin.video.youtube-6.8.10.zip
+aVhttps://mariposa19.github.io/kelebek/Variados/plugin.video.BodyGym.zip
 p677
 ag6
 aa(lp678
 VZ
 p679
-aVtvchopo
+aVSedalyPosta
 p680
-aV      [COLOR 0xFF33FF99]TvChopo[/COLOR]
+aV      Sedal y Posta
 p681
-aVhttps://fuente-tvchopo.github.io/tvchopo/plugin.video.tvchopo-24.zip
+aVhttps://mariposa19.github.io/kelebek/Variados/plugin.video.SedalyPosta.zip
 p682
 ag6
 aa(lp683
 VZ
 p684
-aVcristalazul
+aVPVYoutube
 p685
-aV      Cristal Azul
+aV      [COLOR 0xFF33FF99]Plugin Video Youtube[/COLOR]
 p686
-aVhttps://mariposa19.github.io/kelebek/Variados/plugin.video.cristalazul-0.0.12.zip
+aVhttps://mirrors.kodi.tv/addons/leia/plugin.video.youtube/plugin.video.youtube-6.8.10.zip
 p687
 ag6
 aa(lp688
 VZ
 p689
-aVcometelo
+aVtvchopo
 p690
-aV      Cometelo
+aV      [COLOR 0xFF33FF99]TvChopo[/COLOR]
 p691
-aVhttps://newuser1978.github.io/klb/klb/plugin.video.Cometelo.zip
+aVhttps://fuente-tvchopo.github.io/tvchopo/plugin.video.tvchopo-24.zip
 p692
 ag6
 aa(lp693
 VZ
 p694
-aVgoogledrive
+aVcristalazul
 p695
-aV      [COLOR 0xFF33FF99]Google Drive[/COLOR]
+aV      Cristal Azul
 p696
-aVhttps://mirrors.kodi.tv/addons/leia/plugin.googledrive/plugin.googledrive-1.4.3.zip
+aVhttps://mariposa19.github.io/kelebek/Variados/plugin.video.cristalazul-0.0.12.zip
 p697
 ag6
 aa(lp698
 VZ
 p699
-aVjustforlaughs
+aVcometelo
 p700
-aV      Just For Laughs
+aV      Cometelo
 p701
-aVhttps://newuser1978.github.io/klb/klb/plugin.video.JustForLaughs.zip
+aVhttps://newuser1978.github.io/klb/klb/plugin.video.Cometelo.zip
 p702
 ag6
 aa(lp703
 VZ
 p704
-aVEasyLoad
+aVgoogledrive
 p705
-aV      EasyLoad
+aV      [COLOR 0xFF33FF99]Google Drive[/COLOR]
 p706
-aVhttps://mariposa19.github.io/kelebek/Variados/plugin.video.EasyLoad.zip
+aVhttps://mirrors.kodi.tv/addons/leia/plugin.googledrive/plugin.googledrive-1.4.3.zip
 p707
 ag6
 aa(lp708
 VZ
 p709
-aVcanalcocina
+aVjustforlaughs
 p710
-aV      Canal Cocina
+aV      Just For Laughs
 p711
-aVhttps://newuser1978.github.io/klb/klb/plugin.video.canal_cocina.zip
+aVhttps://newuser1978.github.io/klb/klb/plugin.video.JustForLaughs.zip
 p712
 ag6
 aa(lp713
 VZ
 p714
-aVcomics
+aVEasyLoad
 p715
-aV      Comics
+aV      EasyLoad
 p716
-aVhttps://newuser1978.github.io/klb/klb/plugin.video.comics-0.0.4.zip
+aVhttps://mariposa19.github.io/kelebek/Variados/plugin.video.EasyLoad.zip
 p717
 ag6
 aa(lp718
 VZ
 p719
-aVmundrone
+aVcanalcocina
 p720
-aV      Mundrone
+aV      Canal Cocina
 p721
-aVhttps://fuentekodileia.github.io/addons/plugin.video.mundrone-0.0.4.zip
+aVhttps://newuser1978.github.io/klb/klb/plugin.video.canal_cocina.zip
 p722
 ag6
 aa(lp723
 VZ
 p724
-aVOVNI
+aVcomics
 p725
-aV      OVNI
+aV      Comics
 p726
-aVhttps://kodiadictos.github.io/fuente/Addons%20Video/plugin.video.ovni-0.0.1.zip
+aVhttps://newuser1978.github.io/klb/klb/plugin.video.comics-0.0.4.zip
 p727
 ag6
 aa(lp728
 VZ
 p729
-aVAlma
+aVmundrone
 p730
-aV      Alma
+aV      Mundrone
 p731
-aVhttps://newuser1978.github.io/klb/klb/plugin.video.alma-2.0.zip
+aVhttps://fuentekodileia.github.io/addons/plugin.video.mundrone-0.0.4.zip
 p732
 ag6
 aa(lp733
 VZ
 p734
-aVccloudtv
+aVOVNI
 p735
-aV      CCloudTV
+aV      OVNI
 p736
-aVhttps://newuser1978.github.io/klb/klb/plugin.video.ccloudtv.zip
+aVhttps://kodiadictos.github.io/fuente/Addons%20Video/plugin.video.ovni-0.0.1.zip
 p737
 ag6
 aa(lp738
 VZ
 p739
-aVfesta
+aVAlma
 p740
-aV      Festa
+aV      Alma
 p741
-aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.festa-0.0.14.zip
+aVhttps://newuser1978.github.io/klb/klb/plugin.video.alma-2.0.zip
 p742
 ag6
 aa(lp743
-VD
+VZ
 p744
-aVInfantiles
+aVccloudtv
 p745
-aV[COLOR yellow]Infantiles[/COLOR]
+aV      CCloudTV
 p746
+aVhttps://newuser1978.github.io/klb/klb/plugin.video.ccloudtv.zip
+p747
 ag6
-ag6
-aa(lp747
+aa(lp748
 VZ
-p748
-aVKinderLand
 p749
-aV      KinderLand
+aVfesta
 p750
-aVhttps://mariposa19.github.io/kelebek/Variados/plugin.video.KinderLand.1.0.6.zip
+aV      Festa
 p751
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.festa-0.0.14.zip
+p752
 ag6
-aa(lp752
-VZ
-p753
-aVHEIHEI
+aa(lp753
+VD
 p754
-aV      HEIHEI
+aVInfantiles
 p755
-aVhttps://mariposa19.github.io/kelebek/Variados/plugin.video.heihei.zip
+aV[COLOR yellow]Infantiles[/COLOR]
 p756
+ag6
 ag6
 aa(lp757
 VZ
 p758
-aVFestaKids
+aVKinderLand
 p759
-aV      FestaKids
+aV      KinderLand
 p760
-aVhttps://fuentekodileia.github.io/addons-infantiles/plugin.video.festakids-0.0.12.zip
+aVhttps://mariposa19.github.io/kelebek/Variados/plugin.video.KinderLand.1.0.6.zip
 p761
 ag6
 aa(lp762
 VZ
 p763
-aVClan
+aVHEIHEI
 p764
-aV      Clan
+aV      HEIHEI
 p765
-aVhttps://hirayasoftware.github.io/plugin.video.clan/plugin.video.clan-1.0.2.zip
+aVhttps://mariposa19.github.io/kelebek/Variados/plugin.video.heihei.zip
 p766
 ag6
 aa(lp767
 VZ
 p768
-aVYouKids
+aVFestaKids
 p769
-aV      YouKids
+aV      FestaKids
 p770
-aVhttps://fuentekodileia.github.io/addons-infantiles/plugin.video.YouKids.zip
+aVhttps://fuentekodileia.github.io/addons-infantiles/plugin.video.festakids-0.0.12.zip
 p771
 ag6
 aa(lp772
-VD
+VZ
 p773
-aVMusicales
+aVClan
 p774
-aV[COLOR yellow]Musicales[/COLOR]
+aV      Clan
 p775
+aVhttps://hirayasoftware.github.io/plugin.video.clan/plugin.video.clan-1.0.2.zip
+p776
 ag6
-ag6
-aa(lp776
+aa(lp777
 VZ
-p777
-aVDiscoKelebek
 p778
-aV      [COLOR 0xFF33FF99]Disco Kelebek[/COLOR]
+aVYouKids
 p779
-aVhttps://kelebekmariposas.github.io/addons/plugin.video.Disco-Kelebek.zip
+aV      YouKids
 p780
+aVhttps://fuentekodileia.github.io/addons-infantiles/plugin.video.YouKids.zip
+p781
 ag6
-aa(lp781
-VZ
-p782
-aVMusicHall
+aa(lp782
+VD
 p783
-aV      Music Hall
+aVMusicales
 p784
-aVhttps://mariposa19.github.io/kelebek/Musica/plugin.video.musichall.zip
+aV[COLOR yellow]Musicales[/COLOR]
 p785
+ag6
 ag6
 aa(lp786
 VZ
 p787
-aVMetalOnMetal
+aVDiscoKelebek
 p788
-aV      MetalOnMetal
+aV      [COLOR 0xFF33FF99]Disco Kelebek[/COLOR]
 p789
-aVhttps://kodimetalbox.github.io/metalonmetal/plugin.video.MetalOnMetal-0.1.12.zip
+aVhttps://kelebekmariposas.github.io/addons/plugin.video.Disco-Kelebek.zip
 p790
 ag6
 aa(lp791
 VZ
 p792
-aVRadio
+aVMusicHall
 p793
-aV      [COLOR 0xFF33FF99]Radio[/COLOR]
+aV      Music Hall
 p794
-aVhttps://mirrors.kodi.tv/addons/leia/plugin.audio.radio_de/plugin.audio.radio_de-3.0.3.zip
+aVhttps://mariposa19.github.io/kelebek/Musica/plugin.video.musichall.zip
 p795
 ag6
 aa(lp796
 VZ
 p797
-aVOrbitalMusicRadio
+aVMetalOnMetal
 p798
-aV      OrbirtalMusicRadio
+aV      MetalOnMetal
 p799
-aVhttps://kodiadictos.github.io/fuente/Addons%20Musica%20y%20Radio/plugin.video.OrbitalMusicRadio.zip
+aVhttps://kodimetalbox.github.io/metalonmetal/plugin.video.MetalOnMetal-0.1.12.zip
 p800
 ag6
 aa(lp801
 VZ
 p802
-aVMetallicaTV
+aVRadio
 p803
-aV      Metallica TV
+aV      [COLOR 0xFF33FF99]Radio[/COLOR]
 p804
-aVhttps://mariposa19.github.io/kelebek/Musica/plugin.video.metallicatv-2.0.zip
+aVhttps://mirrors.kodi.tv/addons/leia/plugin.audio.radio_de/plugin.audio.radio_de-3.0.3.zip
 p805
 ag6
 aa(lp806
 VZ
 p807
-aVNoise
+aVOrbitalMusicRadio
 p808
-aV      Noise
+aV      OrbirtalMusicRadio
 p809
-aVhttps://hirayasoftware.github.io/plugin.video.noise/plugin.video.noise-1.0.7.zip
+aVhttps://kodiadictos.github.io/fuente/Addons%20Musica%20y%20Radio/plugin.video.OrbitalMusicRadio.zip
 p810
 ag6
 aa(lp811
 VZ
 p812
-aVInSession
+aVMetallicaTV
 p813
-aV      In Session
+aV      Metallica TV
 p814
-aVhttps://hirayasoftware.github.io/plugin.video.insession/plugin.video.insession-1.0.0.zip
+aVhttps://mariposa19.github.io/kelebek/Musica/plugin.video.metallicatv-2.0.zip
 p815
 ag6
 aa(lp816
 VZ
 p817
-aVOnAir
+aVNoise
 p818
-aV      On Air
+aV      Noise
 p819
-aVhttps://hirayasoftware.github.io/plugin.audio.onair/plugin.audio.onair-1.0.1.zip
+aVhttps://hirayasoftware.github.io/plugin.video.noise/plugin.video.noise-1.0.7.zip
 p820
 ag6
 aa(lp821
 VZ
 p822
-aVMusic
+aVInSession
 p823
-aV      Music
+aV      In Session
 p824
-aVhttps://newuser1978.github.io/klb/klb/plugin.video.music.zip
+aVhttps://hirayasoftware.github.io/plugin.video.insession/plugin.video.insession-1.0.0.zip
 p825
 ag6
 aa(lp826
 VZ
 p827
-aVYouMusic
+aVOnAir
 p828
-aV      YouMusic
+aV      On Air
 p829
-aVhttps://newuser1978.github.io/klb/klb/plugin.video.YouMusic.zip
+aVhttps://hirayasoftware.github.io/plugin.audio.onair/plugin.audio.onair-1.0.1.zip
 p830
 ag6
 aa(lp831
 VZ
 p832
-aVDance
+aVMusic
 p833
-aV      Dance
+aV      Music
 p834
-aVhttps://newuser1978.github.io/klb/klb/plugin.video.dance.zip
+aVhttps://newuser1978.github.io/klb/klb/plugin.video.music.zip
 p835
 ag6
 aa(lp836
 VZ
 p837
-aVHouseMixes
+aVYouMusic
 p838
-aV      House Mixes
+aV      YouMusic
 p839
-aVhttps://newuser1978.github.io/klb/klb/plugin.audio.housemixes-1.1.6.zip
+aVhttps://newuser1978.github.io/klb/klb/plugin.video.YouMusic.zip
 p840
 ag6
 aa(lp841
 VZ
 p842
-aVChillout
+aVDance
 p843
-aV      Chillout
+aV      Dance
 p844
-aVhttps://newuser1978.github.io/klb/klb/plugin.video.chillout-1.0.9.zip
+aVhttps://newuser1978.github.io/klb/klb/plugin.video.dance.zip
 p845
 ag6
 aa(lp846
-VD
+VZ
 p847
-aVLatinos
+aVHouseMixes
 p848
-aV[COLOR yellow]Latinos[/COLOR]
+aV      House Mixes
 p849
+aVhttps://newuser1978.github.io/klb/klb/plugin.audio.housemixes-1.1.6.zip
+p850
 ag6
-ag6
-aa(lp850
+aa(lp851
 VZ
-p851
-aVRepoBrazilTV
 p852
-aV      Repo BrazilTV
+aVChillout
 p853
-aVhttps://newuser1978.github.io/klb/klb/repository.braziltv-1.1.zip
+aV      Chillout
 p854
+aVhttps://newuser1978.github.io/klb/klb/plugin.video.chillout-1.0.9.zip
+p855
 ag6
-aa(lp855
-VZ
-p856
-aVColombiaTV
+aa(lp856
+VD
 p857
-aV      Colombia TV
+aVLatinos
 p858
-aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.colombiatv-1.6.5.zip
+aV[COLOR yellow]Latinos[/COLOR]
 p859
 ag6
+ag6
 aa(lp860
-VD
+VZ
 p861
-aVVO
+aVRepoBrazilTV
 p862
-aV[COLOR yellow]VO[/COLOR]
+aV      Repo BrazilTV
 p863
+aVhttps://newuser1978.github.io/klb/klb/repository.braziltv-1.1.zip
+p864
 ag6
-ag6
-aa(lp864
+aa(lp865
 VZ
-p865
-aVTeamMilhanos
 p866
-aV      [COLOR 0xFF33FF99]Team Milhanos[/COLOR]
+aVColombiaTV
 p867
-aVhttp://milhano.pt/fonte/kodi18/plugin.video.team.milhanos-1.5.zip
+aV      Colombia TV
 p868
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.colombiatv-1.6.5.zip
+p869
 ag6
-aa(lp869
-VZ
-p870
-aVRepoTempest
+aa(lp870
+VD
 p871
-aV      Repo Tempest
+aVVO
 p872
-aVhttps://tempest0580.github.io/repository.tempest-0.0.5.zip
+aV[COLOR yellow]VO[/COLOR]
 p873
+ag6
 ag6
 aa(lp874
 VZ
 p875
-aVFogo
+aVTheOath
 p876
-aV      Fogo Brasil Repo Vikings
+aV      [COLOR 0xFF33FF99]The Oath Repo Host 505 [/COLOR]
 p877
-aVhttp://vkodi.net/repo/repo.vikings.zip
+aVhttps://host505.github.io/repository.host505-2.5.zip
 p878
 ag6
 aa(lp879
 VZ
 p880
-aVRusia
+aVTeamMilhanos
 p881
-aV      Rusia (Repositorio XBMC.RU)
+aV      [COLOR 0xFF33FF99]Team Milhanos[/COLOR]
 p882
-aVhttps://github.com/mariposa19/kelebek/raw/master/Videos/repository.search.db-1.1.43.zip
+aVhttp://milhano.pt/fonte/kodi18/plugin.video.team.milhanos-1.5.zip
 p883
 ag6
 aa(lp884
 VZ
 p885
-aVRepoDeathStar
+aVRepoTempest
 p886
-aV      Repo DeathStar
+aV      Repo Tempest
 p887
-aVhttp://ezzer-mac.com/repo/repository.EzzerMacsWizard.zip
+aVhttps://tempest0580.github.io/repository.tempest-0.0.5.zip
 p888
 ag6
 aa(lp889
 VZ
 p890
-aVStefanoRepo
+aVFogo
 p891
-aV      Stefano Repo Italia
+aV      Fogo Brasil Repo Vikings
 p892
-aVhttps://mariposa19.github.io/kelebek/Variados/repository.stefanorepository-3.3.zip
+aVhttp://vkodi.net/repo/repo.vikings.zip
 p893
 ag6
 aa(lp894
 VZ
 p895
-aVTheCrew
+aVRusia
 p896
-aV      The Crew Repo
+aV      Rusia (Repositorio XBMC.RU)
 p897
-aVhttps://team-crew.github.io/repository.thecrew-0.3.1.zip
+aVhttps://github.com/mariposa19/kelebek/raw/master/Videos/repository.search.db-1.1.43.zip
 p898
 ag6
 aa(lp899
 VZ
 p900
-aVButter
+aVRepoDeathStar
 p901
-aV      Butter Repo
+aV      Repo DeathStar
 p902
-aVhttp://j1wizard.net/butter-addons/_repo/repository.butter/repository.butter-1.9.1.zip/
+aVhttp://ezzer-mac.com/repo/repository.EzzerMacsWizard.zip
 p903
 ag6
 aa(lp904
 VZ
 p905
-aVAsgard
+aVStefanoRepo
 p906
-aV      Asgard Repo
+aV      Stefano Repo Italia
 p907
-aVhttp://narcacist.com/repo/repository.NarcacistWizard.zip
+aVhttps://mariposa19.github.io/kelebek/Variados/repository.stefanorepository-3.3.zip
 p908
 ag6
 aa(lp909
 VZ
 p910
-aVMagneticRepo
+aVTheCrew
 p911
-aV      Magnetic Repo
+aV      The Crew Repo
 p912
-aVhttp://magnetic.website/repo/repository.Magnetic-1.0.8.zip
+aVhttps://team-crew.github.io/repository.thecrew-0.3.1.zip
 p913
 ag6
 aa(lp914
 VZ
 p915
-aVDiamons_Repo
+aVButter
 p916
-aV      [COLOR 0xFF33FF99]Diamond Repo[/COLOR]
+aV      Butter Repo
 p917
-aVhttp://diamondbuild.xyz/repository.diamond-kodi18-repo-10.60.zip
+aVhttp://j1wizard.net/butter-addons/_repo/repository.butter/repository.butter-1.9.1.zip/
 p918
 ag6
 aa(lp919
 VZ
 p920
-aVBNWMovies
+aVAsgard
 p921
-aV      BNW Movies
+aV      Asgard Repo
 p922
-aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.bnwmovies.tva.zip
+aVhttp://narcacist.com/repo/repository.NarcacistWizard.zip
 p923
 ag6
 aa(lp924
 VZ
 p925
-aVVenom
+aVMagneticRepo
 p926
-aV      Venom Repo
+aV      Magnetic Repo
 p927
-aVhttps://123venom.github.io/repository.venom-1.12.zip
+aVhttp://magnetic.website/repo/repository.Magnetic-1.0.8.zip
 p928
 ag6
 aa(lp929
 VZ
 p930
-aVVikir
+aVDiamons_Repo
 p931
-aV      Vikir
+aV      [COLOR 0xFF33FF99]Diamond Repo[/COLOR]
 p932
-aVhttps://github.com/kodi1/kodi1.github.io/blob/master/repo/plugin.video.vikir/plugin.video.vikir-0.19.4.14.zip
+aVhttp://diamondbuild.xyz/repository.diamond-kodi18-repo-10.60.zip
 p933
 ag6
 aa(lp934
 VZ
 p935
-aVCatchUpTVK
+aVBNWMovies
 p936
-aV      CatchUp TV Krypton
+aV      BNW Movies
 p937
-aVhttps://newuser1978.github.io/klb/klb/catchuptvandmore.kodi.krypton.release.zip
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.bnwmovies.tva.zip
 p938
 ag6
 aa(lp939
 VZ
 p940
-aVMMFilmesHD
+aVVenom
 p941
-aV      MMFilmesHD Portugues
+aV      Venom Repo
 p942
-aVhttps://newuser1978.github.io/klb/klb/plugin.video.MMFilmesHD.zip
+aVhttps://123venom.github.io/repository.venom-1.12.zip
 p943
 ag6
 aa(lp944
 VZ
 p945
-aVFrances
+aVVikir
 p946
-aV      Frances (Repositorio VStream)
+aV      Vikir
 p947
-aVhttps://newuser1978.github.io/klb/klb/repository.vstream-0.0.3.zip
+aVhttps://github.com/kodi1/kodi1.github.io/blob/master/repo/plugin.video.vikir/plugin.video.vikir-0.19.4.14.zip
 p948
 ag6
 aa(lp949
 VZ
 p950
-aVAleman
+aVCatchUpTVK
 p951
-aV      Aleman (Repositorio Lastship)
+aV      CatchUp TV Krypton
 p952
-aVhttps://github.com/mariposa19/kelebek/raw/master/Videos/repository.lastship-1.0.6.zip
+aVhttps://newuser1978.github.io/klb/klb/catchuptvandmore.kodi.krypton.release.zip
 p953
 ag6
 aa(lp954
-VD
+VZ
 p955
-aVXXX
+aVMMFilmesHD
 p956
-aV[COLOR yellow]XXX[/COLOR]
+aV      MMFilmesHD Portugues
 p957
+aVhttps://newuser1978.github.io/klb/klb/plugin.video.MMFilmesHD.zip
+p958
 ag6
-ag6
-aa(lp958
+aa(lp959
 VZ
-p959
-aVChoposex
 p960
-aV      [COLOR 0xFF33FF99]Choposex[/COLOR]
+aVFrances
 p961
-aVhttps://fuente-tvchopo.github.io/tvchopo/plugin.video.choposex-6.zip
+aV      Frances (Repositorio VStream)
 p962
+aVhttps://newuser1978.github.io/klb/klb/repository.vstream-0.0.3.zip
+p963
 ag6
-aa(lp963
+aa(lp964
 VZ
-p964
-aVadultsonly
 p965
-aV      Adults Only
+aVAleman
 p966
-aVhttps://newuser1978.github.io/klb/klb/plugin.video.adultsonly.zip
+aV      Aleman (Repositorio Lastship)
 p967
+aVhttps://github.com/mariposa19/kelebek/raw/master/Videos/repository.lastship-1.0.6.zip
+p968
 ag6
-aa(lp968
-VZ
-p969
-aVvideodevil
+aa(lp969
+VD
 p970
-aV      Videodevil
+aVXXX
 p971
-aVhttps://newuser1978.github.io/klb/klb/plugin.video.videodevil-1.7.184.zip
+aV[COLOR yellow]XXX[/COLOR]
 p972
+ag6
 ag6
 aa(lp973
 VZ
 p974
-aVgaymods
+aVChoposex
 p975
-aV      GayMods
+aV      [COLOR 0xFF33FF99]Choposex[/COLOR]
 p976
-aVhttps://newuser1978.github.io/klb/klb/gay-repository.kodi-repo-gaymods-2.0.69.zip
+aVhttps://fuente-tvchopo.github.io/tvchopo/plugin.video.choposex-6.zip
 p977
 ag6
 aa(lp978
 VZ
 p979
-aVfantasticc
+aVadultsonly
 p980
-aV      Fantasticc
+aV      Adults Only
 p981
-aVhttps://newuser1978.github.io/klb/klb/plugin.video.fantasticc-2018.02.05.zip
+aVhttps://newuser1978.github.io/klb/klb/plugin.video.adultsonly.zip
 p982
 ag6
 aa(lp983
-VD
+VZ
 p984
-aVMTorrent
+aVvideodevil
 p985
-aV[COLOR yellow]Motores Torrent[/COLOR]
+aV      Videodevil
 p986
+aVhttps://newuser1978.github.io/klb/klb/plugin.video.videodevil-1.7.184.zip
+p987
 ag6
-ag6
-aa(lp987
+aa(lp988
 VZ
-p988
-aVRepoTorrest
 p989
-aV      [COLOR 0xFF33FF99]Repo Torrest[/COLOR]
+aVgaymods
 p990
-aVhttps://github.com/i96751414/repository.github/archive/v0.0.6.zip
+aV      GayMods
 p991
+aVhttps://newuser1978.github.io/klb/klb/gay-repository.kodi-repo-gaymods-2.0.69.zip
+p992
 ag6
-aa(lp992
+aa(lp993
 VZ
-p993
-aVXBMCTORRENT
 p994
-aV      XBMCTORRENT
+aVfantasticc
 p995
-aVhttps://github.com/afedchin/xbmctorrent/releases/download/v0.7.9.ru/plugin.video.xbmctorrent-0.7.9.ru.zip
+aV      Fantasticc
 p996
+aVhttps://newuser1978.github.io/klb/klb/plugin.video.fantasticc-2018.02.05.zip
+p997
 ag6
-aa(lp997
-VZ
-p998
-aVElementumA32
+aa(lp998
+VD
 p999
-aV      Elementum Android 32
+aVMTorrent
 p1000
-aVhttps://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.58/plugin.video.elementum-0.1.58.android_arm.zip
+aV[COLOR yellow]Motores Torrent[/COLOR]
 p1001
+ag6
 ag6
 aa(lp1002
 VZ
 p1003
-aVElementumA64
+aVRepoTorrest
 p1004
-aV      Elementum Android 64
+aV      [COLOR 0xFF33FF99]Repo Torrest[/COLOR]
 p1005
-aVhttps://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.58/plugin.video.elementum-0.1.58.android_arm64.zip
+aVhttps://github.com/i96751414/repository.github/archive/v0.0.6.zip
 p1006
 ag6
 aa(lp1007
 VZ
 p1008
-aVElementumW32
+aVXBMCTORRENT
 p1009
-aV      Elementum Windows 32bits
+aV      XBMCTORRENT
 p1010
-aVhttps://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.58/plugin.video.elementum-0.1.58.windows_x64.zip
+aVhttps://github.com/afedchin/xbmctorrent/releases/download/v0.7.9.ru/plugin.video.xbmctorrent-0.7.9.ru.zip
 p1011
 ag6
 aa(lp1012
 VZ
 p1013
-aVElementumW64
+aVElementumA32
 p1014
-aV      Elementum Windows 64bits
+aV      Elementum Android 32
 p1015
-aVhttps://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.58/plugin.video.elementum-0.1.58.windows_x86.zip
+aVhttps://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.58/plugin.video.elementum-0.1.58.android_arm.zip
 p1016
 ag6
 aa(lp1017
 VZ
 p1018
-aVQuasar
+aVElementumA64
 p1019
-aV      Quasar
+aV      Elementum Android 64
 p1020
-aVhttps://archive.org/download/plugin.video.quasar-0.9.78_202005/plugin.video.quasar-0.9.78.zip
+aVhttps://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.58/plugin.video.elementum-0.1.58.android_arm64.zip
 p1021
 ag6
 aa(lp1022
 VZ
 p1023
-aVTorrenter
+aVElementumW32
 p1024
-aV      Torrenter
+aV      Elementum Windows 32bits
 p1025
-aVhttps://fuentekodileia.github.io/torrenter/plugin.video.torrenter-2.6.6.zip
+aVhttps://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.58/plugin.video.elementum-0.1.58.windows_x64.zip
 p1026
 ag6
 aa(lp1027
 VZ
 p1028
-aVTorrentin
+aVElementumW64
 p1029
-aV      Torrentin
+aV      Elementum Windows 64bits
 p1030
-aVhttps://fuentekodileia.github.io/quassar-torrentin-elementum/plugin.video.torrentin-0.6.1.zip
+aVhttps://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.58/plugin.video.elementum-0.1.58.windows_x86.zip
 p1031
 ag6
 aa(lp1032
-VD
+VZ
 p1033
-aVBuffer
+aVQuasar
 p1034
-aV[COLOR yellow]Buffer[/COLOR]
+aV      Quasar
 p1035
+aVhttps://archive.org/download/plugin.video.quasar-0.9.78_202005/plugin.video.quasar-0.9.78.zip
+p1036
 ag6
-ag6
-aa(lp1036
-VF
-p1037
-aVK178-RAM-M1
+aa(lp1037
+VZ
 p1038
-aV      Advanced Settings Kodi 17 y 18 RAM MENOR 1 GB
+aVTorrenter
 p1039
-aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-m1-advancedsettings.xml#userdata/advancedsettings.xml
+aV      Torrenter
 p1040
+aVhttps://fuentekodileia.github.io/torrenter/plugin.video.torrenter-2.6.6.zip
+p1041
 ag6
-aa(lp1041
-VF
-p1042
-aVK178-RAM-1
+aa(lp1042
+VZ
 p1043
-aV      Advanced Settings Kodi 17 y 18 RAM 1 GB
+aVTorrentin
 p1044
-aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-1-advancedsettings.xml#userdata/advancedsettings.xml
+aV      Torrentin
 p1045
+aVhttps://fuentekodileia.github.io/quassar-torrentin-elementum/plugin.video.torrentin-0.6.1.zip
+p1046
 ag6
-aa(lp1046
-VF
-p1047
-aVK178-RAM-2
+aa(lp1047
+VD
 p1048
-aV      Advanced Settings Kodi 17 y 18 RAM 2 GB
+aVBuffer
 p1049
-aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-2-advancedsettings.xml#userdata/advancedsettings.xml
+aV[COLOR yellow]Buffer[/COLOR]
 p1050
+ag6
 ag6
 aa(lp1051
 VF
 p1052
-aVK178-RAM-3
+aVK178-RAM-M1
 p1053
-aV      Advanced Settings Kodi 17 y 18 RAM 3 GB
+aV      Advanced Settings Kodi 17 y 18 RAM MENOR 1 GB
 p1054
-aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-3-advancedsettings.xml#userdata/advancedsettings.xml
+aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-m1-advancedsettings.xml#userdata/advancedsettings.xml
 p1055
 ag6
 aa(lp1056
 VF
 p1057
-aVK178-RAM-4
+aVK178-RAM-1
 p1058
-aV      Advanced Settings Kodi 17 y 18 RAM 4 GB
+aV      Advanced Settings Kodi 17 y 18 RAM 1 GB
 p1059
-aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-4-advancedsettings.xml#userdata/advancedsettings.xml
+aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-1-advancedsettings.xml#userdata/advancedsettings.xml
 p1060
 ag6
 aa(lp1061
 VF
 p1062
-aVK178-RAM-6
+aVK178-RAM-2
 p1063
-aV      Advanced Settings Kodi 17 y 18 RAM 6 GB
+aV      Advanced Settings Kodi 17 y 18 RAM 2 GB
 p1064
-aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-6-advancedsettings.xml#userdata/advancedsettings.xml
+aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-2-advancedsettings.xml#userdata/advancedsettings.xml
 p1065
 ag6
 aa(lp1066
 VF
 p1067
-aVK178-RAM-8
+aVK178-RAM-3
 p1068
-aV      Advanced Settings Kodi 17 y 18 RAM 8 GB
+aV      Advanced Settings Kodi 17 y 18 RAM 3 GB
 p1069
-aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-8-advancedsettings.xml#userdata/advancedsettings.xml
+aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-3-advancedsettings.xml#userdata/advancedsettings.xml
 p1070
 ag6
 aa(lp1071
 VF
 p1072
-aVK178-RAM-12
+aVK178-RAM-4
 p1073
-aV      Advanced Settings Kodi 17 y 18 RAM 12 GB
+aV      Advanced Settings Kodi 17 y 18 RAM 4 GB
 p1074
-aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-12-advancedsettings.xml#userdata/advancedsettings.xml
+aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-4-advancedsettings.xml#userdata/advancedsettings.xml
 p1075
 ag6
 aa(lp1076
 VF
 p1077
-aVK178-RAM-16
+aVK178-RAM-6
 p1078
-aV      Advanced Settings Kodi 17 y 18 RAM 16 GB
+aV      Advanced Settings Kodi 17 y 18 RAM 6 GB
 p1079
-aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-16-advancedsettings.xml#userdata/advancedsettings.xml
+aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-6-advancedsettings.xml#userdata/advancedsettings.xml
 p1080
 ag6
 aa(lp1081
 VF
 p1082
-aVK178-ROM
+aVK178-RAM-8
 p1083
-aV      Advanced Settings Kodi 17 y 18 ROM
+aV      Advanced Settings Kodi 17 y 18 RAM 8 GB
 p1084
-aVhttps://ankodi.github.io/AnKodi/Buffers/k178-o-advancedsettings.xml#userdata/advancedsettings.xml
+aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-8-advancedsettings.xml#userdata/advancedsettings.xml
 p1085
 ag6
 aa(lp1086
-VD
+VF
 p1087
-aVPH
+aVK178-RAM-12
 p1088
-aV[COLOR yellow]Programas y Herramientas[/COLOR]
+aV      Advanced Settings Kodi 17 y 18 RAM 12 GB
 p1089
+aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-12-advancedsettings.xml#userdata/advancedsettings.xml
+p1090
 ag6
-ag6
-aa(lp1090
-VZ
-p1091
-aVHorus
+aa(lp1091
+VF
 p1092
-aV      [COLOR 0xFF33FF99]Horus[/COLOR]
+aVK178-RAM-16
 p1093
-aVhttps://mariposa19.github.io/kelebek/Variados/script.module.horus.zip
+aV      Advanced Settings Kodi 17 y 18 RAM 16 GB
 p1094
+aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-16-advancedsettings.xml#userdata/advancedsettings.xml
+p1095
 ag6
-aa(lp1095
-VZ
-p1096
-aVADVSet
+aa(lp1096
+VF
 p1097
-aV      LIMPIADOR ADVSet
+aVK178-ROM
 p1098
-aVhttps://fuentekodileia.github.io/programas/plugin.program.ADVSet-2.4.zip
+aV      Advanced Settings Kodi 17 y 18 ROM
 p1099
+aVhttps://ankodi.github.io/AnKodi/Buffers/k178-o-advancedsettings.xml#userdata/advancedsettings.xml
+p1100
 ag6
-aa(lp1100
-VR
-p1101
-aVEN_ISARTMP
+aa(lp1101
+VD
 p1102
-aV      Habilita InputStream Adaptive y InputStream RTMP
+aVPH
 p1103
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/enable_isartmp.bin
+aV[COLOR yellow]Programas y Herramientas[/COLOR]
 p1104
+ag6
 ag6
 aa(lp1105
 VZ
 p1106
-aVOpensubtitles
+aVHorus
 p1107
-aV      Opensubtitles
+aV      [COLOR 0xFF33FF99]Horus[/COLOR]
 p1108
-aVhttps://newuser1978.github.io/klb/klb/service.subtitles.opensubtitles_by_opensubtitles-master.zip
+aVhttps://mariposa19.github.io/kelebek/Variados/script.module.horus.zip
 p1109
 ag6
 aa(lp1110
 VZ
 p1111
-aVeBook
+aVADVSet
 p1112
-aV      eBook
+aV      LIMPIADOR ADVSet
 p1113
-aVhttps://kelebekmariposas.github.io/addons/script.ebooks-master.zip
+aVhttps://fuentekodileia.github.io/programas/plugin.program.ADVSet-2.4.zip
 p1114
 ag6
 aa(lp1115
-VZ
+VR
 p1116
-aVAutoFrame
+aVEN_ISARTMP
 p1117
-aV      AutoFrame
+aV      Habilita InputStream Adaptive y InputStream RTMP
 p1118
-aVhttp://konectas.es/repo/SCRIPTS/script.video.fswitch-2.1.1.zip
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/enable_isartmp.bin
 p1119
 ag6
 aa(lp1120
 VZ
 p1121
-aVBackup
+aVOpensubtitles
 p1122
-aV      Backup
+aV      Opensubtitles
 p1123
-aVhttps://kodiadictos.github.io/fuente/Programas/Backup-1.1.2.zip
+aVhttps://newuser1978.github.io/klb/klb/service.subtitles.opensubtitles_by_opensubtitles-master.zip
 p1124
 ag6
 aa(lp1125
 VZ
 p1126
-aVPlexus
+aVeBook
 p1127
-aV      Plexus
+aV      eBook
 p1128
-aVhttps://kodiadictos.github.io/fuente/Programas/program.plexus-0.1.18.zip
+aVhttps://kelebekmariposas.github.io/addons/script.ebooks-master.zip
 p1129
 ag6
 aa(lp1130
 VZ
 p1131
-aVTubeCast
+aVAutoFrame
 p1132
-aV      TubeCast
+aV      AutoFrame
 p1133
-aVhttps://mirrors.kodi.tv/addons/leia/script.tubecast/script.tubecast-1.4.5.zip
+aVhttp://konectas.es/repo/SCRIPTS/script.video.fswitch-2.1.1.zip
 p1134
 ag6
 aa(lp1135
 VZ
 p1136
-aVAutoCompletion
+aVBackup
 p1137
-aV      AutoCompletion
+aV      Backup
 p1138
-aVhttps://mariposa19.github.io/kelebek/Scripts/plugin.program.autocompletion-1.0.1.zip
+aVhttps://kodiadictos.github.io/fuente/Programas/Backup-1.1.2.zip
 p1139
 ag6
 aa(lp1140
 VZ
 p1141
-aVEliminar_Indigo
+aVPlexus
 p1142
-aV      Eliminar Indigo
+aV      Plexus
 p1143
-aVhttps://mariposa19.github.io/kelebek/Scripts/plugin.program.indigo.zip
+aVhttps://kodiadictos.github.io/fuente/Programas/program.plexus-0.1.18.zip
 p1144
 ag6
 aa(lp1145
 VZ
 p1146
-aVGDrive
+aVTubeCast
 p1147
-aV      GDrive
+aV      TubeCast
 p1148
-aVhttps://mariposa19.github.io/kelebek/Scripts/plugin.video.gdrive.zip
+aVhttps://mirrors.kodi.tv/addons/leia/script.tubecast/script.tubecast-1.4.5.zip
 p1149
 ag6
 aa(lp1150
-VD
+VZ
 p1151
-aVDCero
+aVAutoCompletion
 p1152
-aV[COLOR yellow]Desde Cero[/COLOR]
+aV      AutoCompletion
 p1153
+aVhttps://mariposa19.github.io/kelebek/Scripts/plugin.program.autocompletion-1.0.1.zip
+p1154
 ag6
-ag6
-aa(lp1154
+aa(lp1155
 VZ
-p1155
-aVF4MTesteryF4MProxy
 p1156
-aV      F4MTester y F4MProxy
+aVEliminar_Indigo
 p1157
-aVhttps://mariposa19.github.io/kelebek/Scripts/plugin.video.f4mTester-2.7.2.zip
+aV      Eliminar Indigo
 p1158
+aVhttps://mariposa19.github.io/kelebek/Scripts/plugin.program.indigo.zip
+p1159
 ag6
-aa(lp1159
+aa(lp1160
 VZ
-p1160
-aVResolveURL
 p1161
-aV      [COLOR 0xFF33FF99]ResolveURL[/COLOR]
+aVGDrive
 p1162
-aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.resolveurl-5.1.30.zip
+aV      GDrive
 p1163
+aVhttps://mariposa19.github.io/kelebek/Scripts/plugin.video.gdrive.zip
+p1164
 ag6
-aa(lp1164
-VZ
-p1165
-aVURLResolver
+aa(lp1165
+VD
 p1166
-aV      URLResolver
+aVDCero
 p1167
-aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.1.00.zip
+aV[COLOR yellow]Desde Cero[/COLOR]
 p1168
+ag6
 ag6
 aa(lp1169
 VZ
 p1170
-aVPython2.25.0
+aVF4MTesteryF4MProxy
 p1171
-aV      Python 2.25.0
+aV      F4MTester y F4MProxy
 p1172
-aVhttps://kodiadictos.github.io/fuente/Scriptss/xbmc.python-2.25.0.zip
+aVhttps://mariposa19.github.io/kelebek/Scripts/plugin.video.f4mTester-2.7.2.zip
 p1173
 ag6
 aa(lp1174
 VZ
 p1175
-aVPython2.26.0
+aVResolveURL
 p1176
-aV      Python 2.26.0
+aV      [COLOR 0xFF33FF99]ResolveURL[/COLOR]
 p1177
-aVhttps://kodiadictos.github.io/fuente/Scriptss/xbmc.python-2.26.0.zip
+aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.resolveurl-5.1.30.zip
 p1178
 ag6
 aa(lp1179
 VZ
 p1180
-aVSimpleDownloader
+aVURLResolver
 p1181
-aV      Simple Downloader
+aV      URLResolver
 p1182
-aVhttp://mirrors.kodi.tv/addons/leia/script.module.simple.downloader/script.module.simple.downloader-1.9.5.zip
+aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.1.00.zip
 p1183
 ag6
 aa(lp1184
 VZ
 p1185
-aVLiveResolver
+aVPython2.25.0
 p1186
-aV      Live Resolver
+aV      Python 2.25.0
 p1187
-aVhttps://fuentekodileia.github.io/scripts/script.module.liveresolver.zip
+aVhttps://kodiadictos.github.io/fuente/Scriptss/xbmc.python-2.25.0.zip
 p1188
 ag6
 aa(lp1189
 VZ
 p1190
-aVMetaHandler
+aVPython2.26.0
 p1191
-aV      MetaHandler
+aV      Python 2.26.0
 p1192
-aVhttps://mirrors.kodi.tv/addons/leia/script.module.metahandler/script.module.metahandler-2.9.0.zip
+aVhttps://kodiadictos.github.io/fuente/Scriptss/xbmc.python-2.26.0.zip
 p1193
 ag6
 aa(lp1194
 VZ
 p1195
-aVSCMSingleDispatch
+aVSimpleDownloader
 p1196
-aV      Script Module Single Dispatch
+aV      Simple Downloader
 p1197
-aVhttp://mirrors.kodi.tv/addons/leia/script.module.singledispatch/script.module.singledispatch-3.4.0.3.zip
+aVhttp://mirrors.kodi.tv/addons/leia/script.module.simple.downloader/script.module.simple.downloader-1.9.5.zip
 p1198
 ag6
 aa(lp1199
 VZ
 p1200
-aVt0mm0
+aVLiveResolver
 p1201
-aV      Script Module t0mm0
+aV      Live Resolver
 p1202
-aVhttps://mirrors.kodi.tv/addons/leia/script.module.t0mm0.common/script.module.t0mm0.common-2.1.1.zip
+aVhttps://fuentekodileia.github.io/scripts/script.module.liveresolver.zip
 p1203
 ag6
 aa(lp1204
 VZ
 p1205
-aVFutures
+aVMetaHandler
 p1206
-aV      Script Module Futures
+aV      MetaHandler
 p1207
-aVhttp://mirrors.kodi.tv/addons/leia/script.module.futures/script.module.futures-2.2.0.zip
+aVhttps://mirrors.kodi.tv/addons/leia/script.module.metahandler/script.module.metahandler-2.9.0.zip
 p1208
 ag6
 aa(lp1209
-VD
-p1210
-aVQJ
-p1211
-aV[COLOR yellow]Quieres Jugar[/COLOR]
-p1212
-ag6
-ag6
-aa(lp1213
 VZ
-p1214
-aVIAGL
+p1210
+aVSCMSingleDispatch
+p1211
+aV      Script Module Single Dispatch
+p1212
+aVhttp://mirrors.kodi.tv/addons/leia/script.module.singledispatch/script.module.singledispatch-3.4.0.3.zip
+p1213
+ag6
+aa(lp1214
+VZ
 p1215
-aV      [COLOR 0xFF33FF99]IAGL (Internet Archive Game Launcher)[/COLOR]
+aVt0mm0
 p1216
-aVhttps://github.com/zach-morris/repository.zachmorris/raw/master/plugin.program.iagl/plugin.program.iagl-2.1.2.zip
+aV      Script Module t0mm0
 p1217
+aVhttps://mirrors.kodi.tv/addons/leia/script.module.t0mm0.common/script.module.t0mm0.common-2.1.1.zip
+p1218
 ag6
-aa(lp1218
-VC
-p1219
-aVIAGLSettingA
+aa(lp1219
+VZ
 p1220
-aV      Configure IAGL for RetroArch - Android
+aVFutures
 p1221
-aVhttps://mariposa19.github.io/kelebek/Settings/IAGL-settingsA.zip#userdata/addon_data
+aV      Script Module Futures
 p1222
+aVhttp://mirrors.kodi.tv/addons/leia/script.module.futures/script.module.futures-2.2.0.zip
+p1223
 ag6
-aa(lp1223
-VC
-p1224
-aVIAGLSettingW
+aa(lp1224
+VD
 p1225
-aV      Configure IAGL for RetroArch - Windows
+aVQJ
 p1226
-aVhttps://mariposa19.github.io/kelebek/Settings/IAGL-settingsW.zip#userdata/addon_data
+aV[COLOR yellow]Quieres Jugar[/COLOR]
 p1227
+ag6
 ag6
 aa(lp1228
 VZ
 p1229
-aVRepoZachMorris
+aVIAGL
 p1230
-aV      Repo ZachMorris
+aV      [COLOR 0xFF33FF99]IAGL (Internet Archive Game Launcher)[/COLOR]
 p1231
-aVhttps://github.com/zach-morris/repository.zachmorris/raw/master/repository.zachmorris/repository.zachmorris-1.0.0.zip
+aVhttps://github.com/zach-morris/repository.zachmorris/raw/master/plugin.program.iagl/plugin.program.iagl-2.1.2.zip
 p1232
 ag6
 aa(lp1233
-VZ
+VC
 p1234
-aVRepoGameStarter
+aVIAGLSettingA
 p1235
-aV      Repo GameStarter para ELEC
+aV      Configure IAGL for RetroArch - Android
 p1236
-aVhttps://github.com/bite-your-idols/Gamestarter/raw/master/repository.gamestarter/repository.gamestarter/repository.gamestarter-3.0.0.zip
+aVhttps://mariposa19.github.io/kelebek/Settings/IAGL-settingsA.zip#userdata/addon_data
 p1237
 ag6
 aa(lp1238
-VD
+VC
 p1239
-aVRepositorios
+aVIAGLSettingW
 p1240
-aV[COLOR yellow]Repositorios[/COLOR]
+aV      Configure IAGL for RetroArch - Windows
 p1241
+aVhttps://mariposa19.github.io/kelebek/Settings/IAGL-settingsW.zip#userdata/addon_data
+p1242
 ag6
-ag6
-aa(lp1242
+aa(lp1243
 VZ
-p1243
-aVDiamons_Repo
 p1244
-aV      [COLOR 0xFF33FF99]Diamond Repo[/COLOR]
+aVRepoZachMorris
 p1245
-aVhttp://diamondbuild.xyz/repository.diamond-kodi18-repo-10.60.zip
+aV      Repo ZachMorris
 p1246
+aVhttps://github.com/zach-morris/repository.zachmorris/raw/master/repository.zachmorris/repository.zachmorris-1.0.0.zip
+p1247
 ag6
-aa(lp1247
+aa(lp1248
 VZ
-p1248
-aVRepoGoogleDrive
 p1249
-aV      Repo Google Drive
+aVRepoGameStarter
 p1250
-aVhttp://repo.daro.mx/repository.cguzzman-1.0.0.zip
+aV      Repo GameStarter para ELEC
 p1251
+aVhttps://github.com/bite-your-idols/Gamestarter/raw/master/repository.gamestarter/repository.gamestarter/repository.gamestarter-3.0.0.zip
+p1252
 ag6
-aa(lp1252
-VZ
-p1253
-aVRepoBuga
+aa(lp1253
+VD
 p1254
-aV      [COLOR 0xFF33FF99]Repo Bugatsinho[/COLOR]
+aVRepositorios
 p1255
-aVhttps://kodiadictos.github.io/fuente/Repositorios/repository.bugatsinho-2.1.zip
+aV[COLOR yellow]Repositorios[/COLOR]
 p1256
+ag6
 ag6
 aa(lp1257
 VZ
 p1258
-aVRepoAlfa
+aVDiamons_Repo
 p1259
-aV      [COLOR 0xFF33FF99]Repo Alfa[/COLOR]
+aV      [COLOR 0xFF33FF99]Diamond Repo[/COLOR]
 p1260
-aVhttps://alfa-addon.com/alfa/repository.alfa-addon-1.0.6.zip
+aVhttp://diamondbuild.xyz/repository.diamond-kodi18-repo-10.60.zip
 p1261
 ag6
 aa(lp1262
 VZ
 p1263
-aVRepokodiadult
+aVRepoGoogleDrive
 p1264
-aV      Repo kodiadult
+aV      Repo Google Drive
 p1265
-aVhttp://fusion.tvaddons.co/kodi-repos/xxx-adult/repository.kodiadult-1.0.0.zip
+aVhttp://repo.daro.mx/repository.cguzzman-1.0.0.zip
 p1266
 ag6
 aa(lp1267
 VZ
 p1268
-aVRepoMyShows
+aVRepoBuga
 p1269
-aV      Repo MyShows
+aV      [COLOR 0xFF33FF99]Repo Bugatsinho[/COLOR]
 p1270
-aVhttps://fuentekodileia.github.io/repositorios/repository.myshows.me-1.0.5.zip
+aVhttps://kodiadictos.github.io/fuente/Repositorios/repository.bugatsinho-2.1.zip
 p1271
 ag6
 aa(lp1272
 VZ
 p1273
-aVRepoXBMCHub
+aVRepoAlfa
 p1274
-aV      Repo XBMCHub
+aV      [COLOR 0xFF33FF99]Repo Alfa[/COLOR]
 p1275
-aVhttps://fuentekodileia.github.io/repositorios/repository.xbmchub.zip
+aVhttps://alfa-addon.com/alfa/repository.alfa-addon-1.0.6.zip
 p1276
 ag6
 aa(lp1277
 VZ
 p1278
-aVRepoResolveurl
+aVRepokodiadult
 p1279
-aV      Repo ResolveUrl
+aV      Repo kodiadult
 p1280
-aVhttps://palantirsource.github.io/palantir/repository.resolverurl-0.0.2.zip
+aVhttp://fusion.tvaddons.co/kodi-repos/xxx-adult/repository.kodiadult-1.0.0.zip
 p1281
 ag6
 aa(lp1282
 VZ
 p1283
-aVRepoJSergio
+aVRepoMyShows
 p1284
-aV      Repo JSergio
+aV      Repo MyShows
 p1285
-aVhttps://fuentekodileia.github.io/repositorios/repository.jsergio-1.0.4.zip
+aVhttps://fuentekodileia.github.io/repositorios/repository.myshows.me-1.0.5.zip
 p1286
 ag6
 aa(lp1287
 VZ
 p1288
-aVRepoXXTrep
+aVRepoXBMCHub
 p1289
-aV      Repo XXTrep
+aV      Repo XBMCHub
 p1290
-aVhttps://kodiadictos.github.io/fuente/Repositorios/repository.xxtrep.zip
+aVhttps://fuentekodileia.github.io/repositorios/repository.xbmchub.zip
 p1291
 ag6
 aa(lp1292
 VZ
 p1293
-aVRepoHiraya
+aVRepoResolveurl
 p1294
-aV      Hiraya Software
+aV      Repo ResolveUrl
 p1295
-aVhttps://hirayasoftware.github.io/repository.hirayasoftware-1.0.1.zip
+aVhttps://palantirsource.github.io/palantir/repository.resolverurl-0.0.2.zip
 p1296
 ag6
 aa(lp1297
 VZ
 p1298
-aVRepoManiac
+aVRepoJSergio
 p1299
-aV      Repo Maniac
+aV      Repo JSergio
 p1300
-aVhttps://github.com/Palantiraddon/Repo/raw/master/Palantir/repository.Maniac/repository.Maniac-1.0.0.zip
+aVhttps://fuentekodileia.github.io/repositorios/repository.jsergio-1.0.4.zip
 p1301
 ag6
 aa(lp1302
 VZ
 p1303
-aVRepoVStream
+aVRepoXXTrep
 p1304
-aV      Repo VStream
+aV      Repo XXTrep
 p1305
-aVhttps://newuser1978.github.io/klb/klb/repository.vstream-0.0.3.zip
+aVhttps://kodiadictos.github.io/fuente/Repositorios/repository.xxtrep.zip
 p1306
 ag6
 aa(lp1307
-VD
+VZ
 p1308
-aVScripts
+aVRepoHiraya
 p1309
-aV[COLOR yellow]Scripts[/COLOR]
+aV      Hiraya Software
 p1310
+aVhttps://hirayasoftware.github.io/repository.hirayasoftware-1.0.1.zip
+p1311
 ag6
-ag6
-aa(lp1311
+aa(lp1312
 VZ
-p1312
-aVPCM
 p1313
-aV      PyCryptodome
+aVRepoManiac
 p1314
-aVhttps://mariposa19.github.io/kelebek/Scripts/script.module.pycryptodome-3.4.1.zip
+aV      Repo Maniac
 p1315
+aVhttps://github.com/Palantiraddon/Repo/raw/master/Palantir/repository.Maniac/repository.Maniac-1.0.0.zip
+p1316
 ag6
-aa(lp1316
+aa(lp1317
 VZ
-p1317
-aVITesting
 p1318
-aV      Inputstream Testing
+aVRepoVStream
 p1319
-aVhttps://mariposa19.github.io/kelebek/Scripts/inputstream.adaptive.testing.zip
+aV      Repo VStream
 p1320
+aVhttps://newuser1978.github.io/klb/klb/repository.vstream-0.0.3.zip
+p1321
 ag6
-aa(lp1321
-VZ
-p1322
-aVSCPyrrent
+aa(lp1322
+VD
 p1323
-aV      Script Module Pyrrent2HTTP
+aVScripts
 p1324
-aVhttps://fuentekodileia.github.io/torrenter/script.module.pyrrent2http-0.9.8.zip
+aV[COLOR yellow]Scripts[/COLOR]
 p1325
+ag6
 ag6
 aa(lp1326
 VZ
 p1327
-aVRouting
+aVPCM
 p1328
-aV      Routing
+aV      PyCryptodome
 p1329
-aVhttp://mirrors.kodi.tv/addons/leia/script.module.routing/script.module.routing-0.2.3.zip
+aVhttps://mariposa19.github.io/kelebek/Scripts/script.module.pycryptodome-3.4.1.zip
 p1330
 ag6
 aa(lp1331
 VZ
 p1332
-aVUpnext
+aVITesting
 p1333
-aV      [COLOR 0xFF33FF99]Upnext[/COLOR]
+aV      Inputstream Testing
 p1334
-aVhttps://mirrors.kodi.tv/addons/leia/service.upnext/service.upnext-1.1.5.zip
+aVhttps://mariposa19.github.io/kelebek/Scripts/inputstream.adaptive.testing.zip
 p1335
 ag6
 aa(lp1336
 VZ
 p1337
-aVcfscrape
+aVSCPyrrent
 p1338
-aV      cfscrape
+aV      Script Module Pyrrent2HTTP
 p1339
-aVhttps://newuser1978.github.io/klb/klb/script.module.cfscrape-master.zip
+aVhttps://fuentekodileia.github.io/torrenter/script.module.pyrrent2http-0.9.8.zip
 p1340
 ag6
 aa(lp1341
 VZ
 p1342
-aVF4MTester
+aVRouting
 p1343
-aV      F4M Tester
+aV      Routing
 p1344
-aVhttps://kodiadictos.github.io/fuente/Addons%20Deportes/dependencias.1x2/2plugin.video.f4mTester-2.7.2.zip
+aVhttp://mirrors.kodi.tv/addons/leia/script.module.routing/script.module.routing-0.2.3.zip
 p1345
 ag6
 aa(lp1346
 VZ
 p1347
-aVcommoncache
+aVUpnext
 p1348
-aV      Common Cache
+aV      [COLOR 0xFF33FF99]Upnext[/COLOR]
 p1349
-aVhttp://mirrors.kodi.tv/addons/leia/script.common.plugin.cache/script.common.plugin.cache-2.6.1.zip
+aVhttps://mirrors.kodi.tv/addons/leia/service.upnext/service.upnext-1.1.5.zip
 p1350
 ag6
 aa(lp1351
 VZ
 p1352
-aVExtendedInfo
+aVcfscrape
 p1353
-aV      Extended Info
+aV      cfscrape
 p1354
-aVhttps://mirrors.kodi.tv/addons/leia/script.extendedinfo/script.extendedinfo-5.6.0.zip
+aVhttps://newuser1978.github.io/klb/klb/script.module.cfscrape-master.zip
 p1355
 ag6
 aa(lp1356
 VZ
 p1357
-aVglobalsearch
+aVF4MTester
 p1358
-aV      Global Search
+aV      F4M Tester
 p1359
-aVhttps://mirrors.kodi.tv/addons/leia/script.globalsearch/script.globalsearch-8.0.13.zip
+aVhttps://kodiadictos.github.io/fuente/Addons%20Deportes/dependencias.1x2/2plugin.video.f4mTester-2.7.2.zip
 p1360
 ag6
 aa(lp1361
 VZ
 p1362
-aVaddoncommon
+aVcommoncache
 p1363
-aV      Addon Common
+aV      Common Cache
 p1364
-aVhttp://mirrors.kodi.tv/addons/leia/script.module.addon.common/script.module.addon.common-2.0.0.zip
+aVhttp://mirrors.kodi.tv/addons/leia/script.common.plugin.cache/script.common.plugin.cache-2.6.1.zip
 p1365
 ag6
 aa(lp1366
 VZ
 p1367
-aVcherrypy
+aVExtendedInfo
 p1368
-aV      Cherrypy
+aV      Extended Info
 p1369
-aVhttps://mariposa19.github.io/kelebek/Scripts/script.module.cherrypy.zip
+aVhttps://mirrors.kodi.tv/addons/leia/script.extendedinfo/script.extendedinfo-5.6.0.zip
 p1370
 ag6
 aa(lp1371
 VZ
 p1372
-aVcryptopy
+aVglobalsearch
 p1373
-aV      Cryptopy
+aV      Global Search
 p1374
-aVhttps://newuser1978.github.io/klb/klb/script.module.cryptopy-1.2.6.zip
+aVhttps://mirrors.kodi.tv/addons/leia/script.globalsearch/script.globalsearch-8.0.13.zip
 p1375
 ag6
 aa(lp1376
 VZ
 p1377
-aVlibtorrent
+aVaddoncommon
 p1378
-aV      Libtorrent
+aV      Addon Common
 p1379
-aVhttps://fuentekodileia.github.io/torrenter/script.module.libtorrent-1.1.1c.zip
+aVhttp://mirrors.kodi.tv/addons/leia/script.module.addon.common/script.module.addon.common-2.0.0.zip
 p1380
 ag6
 aa(lp1381
 VZ
 p1382
-aVliveresolver
+aVcherrypy
 p1383
-aV      Liveresolver
+aV      Cherrypy
 p1384
-aVhttps://fuentekodileia.github.io/scripts/script.module.liveresolver.zip
+aVhttps://mariposa19.github.io/kelebek/Scripts/script.module.cherrypy.zip
 p1385
 ag6
 aa(lp1386
 VZ
 p1387
-aVmetahandler
+aVcryptopy
 p1388
-aV      Metahandler
+aV      Cryptopy
 p1389
-aVhttp://mirrors.kodi.tv/addons/leia/script.module.metahandler/script.module.metahandler-2.9.0.zip
+aVhttps://newuser1978.github.io/klb/klb/script.module.cryptopy-1.2.6.zip
 p1390
 ag6
 aa(lp1391
 VZ
 p1392
-aVResolveURL
+aVlibtorrent
 p1393
-aV      [COLOR 0xFF33FF99]ResolveURL[/COLOR]
+aV      Libtorrent
 p1394
-aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.resolveurl-5.1.30.zip
+aVhttps://fuentekodileia.github.io/torrenter/script.module.libtorrent-1.1.1c.zip
 p1395
 ag6
 aa(lp1396
 VZ
 p1397
-aVSimpleDownloader
+aVliveresolver
 p1398
-aV      Simple Downloader
+aV      Liveresolver
 p1399
-aVhttp://mirrors.kodi.tv/addons/leia/script.module.simple.downloader/script.module.simple.downloader-1.9.5.zip
+aVhttps://fuentekodileia.github.io/scripts/script.module.liveresolver.zip
 p1400
 ag6
 aa(lp1401
 VZ
 p1402
-aVSix
+aVmetahandler
 p1403
-aV      Six
+aV      Metahandler
 p1404
-aVhttp://mirrors.kodi.tv/addons/leia/script.module.six/script.module.six-1.13.0.zip
+aVhttp://mirrors.kodi.tv/addons/leia/script.module.metahandler/script.module.metahandler-2.9.0.zip
 p1405
 ag6
 aa(lp1406
 VZ
 p1407
-aVURLResolver
+aVResolveURL
 p1408
-aV      Urlresolver
+aV      [COLOR 0xFF33FF99]ResolveURL[/COLOR]
 p1409
-aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.1.00.zip
+aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.resolveurl-5.1.30.zip
 p1410
 ag6
 aa(lp1411
 VZ
 p1412
-aVyoutubedll
+aVSimpleDownloader
 p1413
-aV      Youtubedll
+aV      Simple Downloader
 p1414
-aVhttps://fuentekodileia.github.io/scripts/script.module.youtube.dl.zip
+aVhttp://mirrors.kodi.tv/addons/leia/script.module.simple.downloader/script.module.simple.downloader-1.9.5.zip
 p1415
 ag6
 aa(lp1416
 VZ
 p1417
-aVSCSkinHS
+aVSix
 p1418
-aV      Skin Helper Service
+aV      Six
 p1419
-aVhttp://mirrors.kodi.tv/addons/leia/script.skin.helper.service/script.skin.helper.service-1.1.3.zip
+aVhttp://mirrors.kodi.tv/addons/leia/script.module.six/script.module.six-1.13.0.zip
 p1420
 ag6
 aa(lp1421
 VZ
 p1422
-aVF4MProxy
+aVURLResolver
 p1423
-aV      F4M Proxy
+aV      Urlresolver
 p1424
-aVhttps://kodiadictos.github.io/fuente/Scriptss/script.video.F4mProxy-2.8.8.zip
+aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.1.00.zip
 p1425
 ag6
 aa(lp1426
 VZ
 p1427
-aVxbmcpython
+aVyoutubedll
 p1428
-aV      Xbmc python
+aV      Youtubedll
 p1429
-aVhttps://newuser1978.github.io/klb/klb/xbmc.python-2.25.0.zip
+aVhttps://fuentekodileia.github.io/scripts/script.module.youtube.dl.zip
 p1430
 ag6
 aa(lp1431
 VZ
 p1432
-aVxmltodict
+aVSCSkinHS
 p1433
-aV      xmltodict
+aV      Skin Helper Service
 p1434
-aVhttp://mirrors.kodi.tv/addons/leia/script.module.xmltodict/script.module.xmltodict-0.11.0.zip
+aVhttp://mirrors.kodi.tv/addons/leia/script.skin.helper.service/script.skin.helper.service-1.1.3.zip
 p1435
 ag6
 aa(lp1436
 VZ
 p1437
-aVmyconnpy
+aVF4MProxy
 p1438
-aV      myconnpy
+aV      F4M Proxy
 p1439
-aVhttp://mirrors.kodi.tv/addons/leia/script.module.myconnpy/script.module.myconnpy-1.1.7.zip
+aVhttps://kodiadictos.github.io/fuente/Scriptss/script.video.F4mProxy-2.8.8.zip
 p1440
 ag6
 aa(lp1441
 VZ
 p1442
-aVKodi65
+aVxbmcpython
 p1443
-aV      Script Module Kodi65
+aV      Xbmc python
 p1444
-aVhttp://mirrors.kodi.tv/addons/leia/script.module.kodi65/script.module.kodi65-1.2.1.zip
+aVhttps://newuser1978.github.io/klb/klb/xbmc.python-2.25.0.zip
 p1445
 ag6
 aa(lp1446
 VZ
 p1447
-aVKodiSix
+aVxmltodict
 p1448
-aV      Script Module Kodi Six
+aV      xmltodict
 p1449
-aVhttps://mirrors.kodi.tv/addons/leia/script.module.kodi-six/script.module.kodi-six-0.1.3.zip
+aVhttp://mirrors.kodi.tv/addons/leia/script.module.xmltodict/script.module.xmltodict-0.11.0.zip
 p1450
 ag6
 aa(lp1451
-VD
+VZ
 p1452
-aVSkins
+aVmyconnpy
 p1453
-aV[COLOR yellow]Skins[/COLOR]
+aV      myconnpy
 p1454
+aVhttp://mirrors.kodi.tv/addons/leia/script.module.myconnpy/script.module.myconnpy-1.1.7.zip
+p1455
 ag6
-ag6
-aa(lp1455
-VD
-p1456
-aVSkinsAnabel
+aa(lp1456
+VZ
 p1457
-aV   [COLOR yellow]Skins Anabel[/COLOR]
+aVKodi65
 p1458
-ag6
-ag6
-aa(lp1459
-VZ
+aV      Script Module Kodi65
+p1459
+aVhttp://mirrors.kodi.tv/addons/leia/script.module.kodi65/script.module.kodi65-1.2.1.zip
 p1460
-aVCST
-p1461
-aV         Confluence Stranger Things
+ag6
+aa(lp1461
+VZ
 p1462
-aVhttps://ankodi.github.io/AnKodi/Skins/skin.confluence-ST.zip
+aVKodiSix
 p1463
-ag6
-aa(lp1464
-VZ
+aV      Script Module Kodi Six
+p1464
+aVhttps://mirrors.kodi.tv/addons/leia/script.module.kodi-six/script.module.kodi-six-0.1.3.zip
 p1465
-aVCMariposa
-p1466
-aV         Confluence Mariposa
-p1467
-aVhttps://ankodi.github.io/AnKodi/Skins/skin.confluence-mariposa.zip
-p1468
 ag6
-aa(lp1469
-VZ
-p1470
-aVAeonLeiAnMC
+aa(lp1466
+VD
+p1467
+aVSkins
+p1468
+aV[COLOR yellow]Skins[/COLOR]
+p1469
+ag6
+ag6
+aa(lp1470
+VD
 p1471
-aV         Aeon LeiAnMC
+aVSkinsAnabel
 p1472
-aVD#https://ankodi.github.io/AnKodi/Skins/skin.aeon.LeiAnMC#skin.aeon.LeiAnMC
+aV   [COLOR yellow]Skins Anabel[/COLOR]
 p1473
+ag6
 ag6
 aa(lp1474
 VZ
 p1475
-aVAeonWLeiAnMC
+aVCST
 p1476
-aV         Aeon WLeiAnMC
+aV         Confluence Stranger Things
 p1477
-aVD#https://ankodi.github.io/AnKodi/Skins/skin.aeon.WLeiAnMC#skin.aeon.WLeiAnMC
+aVhttps://ankodi.github.io/AnKodi/Skins/skin.confluence-ST.zip
 p1478
 ag6
 aa(lp1479
 VZ
 p1480
-aVSkinHSKKonfluence17
+aVCMariposa
 p1481
-aV      Skin HSK Konfluence
+aV         Confluence Mariposa
 p1482
-aVD#https://ankodi.github.io/AnKodi/Skins/skin.hsk.konfluence#skin.hsk.konfluence
+aVhttps://ankodi.github.io/AnKodi/Skins/skin.confluence-mariposa.zip
 p1483
 ag6
 aa(lp1484
 VZ
 p1485
-aVSkinRapierMariposa17
+aVAeonLeiAnMC
 p1486
-aV      Skin Rapier Mariposa 17
+aV         Aeon LeiAnMC
 p1487
-aVD#https://github.com/AnKodi/AnKodi/raw/master/Skins/skin.rapier-Mariposa17.zip#skin.rapier-Mariposa17
+aVD#https://ankodi.github.io/AnKodi/Skins/skin.aeon.LeiAnMC#skin.aeon.LeiAnMC
 p1488
 ag6
 aa(lp1489
 VZ
 p1490
-aVSkinRapierMariposa18
+aVAeonWLeiAnMC
 p1491
-aV      Skin Rapier Mariposa 18
+aV         Aeon WLeiAnMC
 p1492
-aVD#https://github.com/AnKodi/AnKodi/raw/master/Skins/skin.rapier-Mariposa18(1).zip#skin.rapier-Mariposa(1)
+aVD#https://ankodi.github.io/AnKodi/Skins/skin.aeon.WLeiAnMC#skin.aeon.WLeiAnMC
 p1493
 ag6
 aa(lp1494
 VZ
 p1495
-aVSkinKMariposa17
+aVSkinHSKKonfluence17
 p1496
-aV      Skin Krypton Mariposa
+aV      Skin HSK Konfluence
 p1497
-aVhttps://ankodi.github.io/AnKodi/Skins/skin.sky.krypton.mariposa.zip
+aVD#https://ankodi.github.io/AnKodi/Skins/skin.hsk.konfluence#skin.hsk.konfluence
 p1498
 ag6
 aa(lp1499
 VZ
 p1500
-aVRepoArticZephyr
+aVSkinRapierMariposa17
 p1501
-aV      Repo Artic Zephyr
+aV      Skin Rapier Mariposa 17
 p1502
-aVhttps://mariposa19.github.io/kelebek/Variados/repository.beatmasterrs-1.0.zip
+aVD#https://github.com/AnKodi/AnKodi/raw/master/Skins/skin.rapier-Mariposa17.zip#skin.rapier-Mariposa17
 p1503
 ag6
 aa(lp1504
 VZ
 p1505
-aVRepoXonfluence
+aVSkinRapierMariposa18
 p1506
-aV      Repo Xonfluence
+aV      Skin Rapier Mariposa 18
 p1507
-aVhttps://newuser1978.github.io/klb/klb/hellyrepo.kodi-master.zip
+aVD#https://github.com/AnKodi/AnKodi/raw/master/Skins/skin.rapier-Mariposa18(1).zip#skin.rapier-Mariposa(1)
 p1508
 ag6
 aa(lp1509
 VZ
 p1510
-aVRepoEstuaryMod
+aVSkinKMariposa17
 p1511
-aV      Repo Estuary Mod
+aV      Skin Krypton Mariposa
 p1512
-aVhttps://newuser1978.github.io/klb/klb/repository.guilouz-1.0.3.zip
+aVhttps://ankodi.github.io/AnKodi/Skins/skin.sky.krypton.mariposa.zip
 p1513
+ag6
+aa(lp1514
+VZ
+p1515
+aVRepoArticZephyr
+p1516
+aV      Repo Artic Zephyr
+p1517
+aVhttps://mariposa19.github.io/kelebek/Variados/repository.beatmasterrs-1.0.zip
+p1518
+ag6
+aa(lp1519
+VZ
+p1520
+aVRepoXonfluence
+p1521
+aV      Repo Xonfluence
+p1522
+aVhttps://newuser1978.github.io/klb/klb/hellyrepo.kodi-master.zip
+p1523
+ag6
+aa(lp1524
+VZ
+p1525
+aVRepoEstuaryMod
+p1526
+aV      Repo Estuary Mod
+p1527
+aVhttps://newuser1978.github.io/klb/klb/repository.guilouz-1.0.3.zip
+p1528
 ag6
 aa.
