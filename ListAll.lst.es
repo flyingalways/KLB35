@@ -2119,7 +2119,7 @@ VF
 p1052
 aVK178-RAM-M1
 p1053
-aV      Advanced Settings Kodi 17 y 18 RAM MENOR 1 GB
+aV      RAM MENOR 1 GB
 p1054
 aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-m1-advancedsettings.xml#userdata/advancedsettings.xml
 p1055
@@ -2129,7 +2129,7 @@ VF
 p1057
 aVK178-RAM-1
 p1058
-aV      Advanced Settings Kodi 17 y 18 RAM 1 GB
+aV      RAM 1 GB
 p1059
 aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-1-advancedsettings.xml#userdata/advancedsettings.xml
 p1060
@@ -2139,7 +2139,7 @@ VF
 p1062
 aVK178-RAM-2
 p1063
-aV      Advanced Settings Kodi 17 y 18 RAM 2 GB
+aV      RAM 2 GB
 p1064
 aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-2-advancedsettings.xml#userdata/advancedsettings.xml
 p1065
@@ -2149,7 +2149,7 @@ VF
 p1067
 aVK178-RAM-3
 p1068
-aV      Advanced Settings Kodi 17 y 18 RAM 3 GB
+aV      RAM 3 GB
 p1069
 aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-3-advancedsettings.xml#userdata/advancedsettings.xml
 p1070
@@ -2159,7 +2159,7 @@ VF
 p1072
 aVK178-RAM-4
 p1073
-aV      Advanced Settings Kodi 17 y 18 RAM 4 GB
+aV      RAM 4 GB
 p1074
 aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-4-advancedsettings.xml#userdata/advancedsettings.xml
 p1075
@@ -2169,7 +2169,7 @@ VF
 p1077
 aVK178-RAM-6
 p1078
-aV      Advanced Settings Kodi 17 y 18 RAM 6 GB
+aV      RAM 6 GB
 p1079
 aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-6-advancedsettings.xml#userdata/advancedsettings.xml
 p1080
@@ -2179,7 +2179,7 @@ VF
 p1082
 aVK178-RAM-8
 p1083
-aV      Advanced Settings Kodi 17 y 18 RAM 8 GB
+aV      RAM 8 GB
 p1084
 aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-8-advancedsettings.xml#userdata/advancedsettings.xml
 p1085
@@ -2189,7 +2189,7 @@ VF
 p1087
 aVK178-RAM-12
 p1088
-aV      Advanced Settings Kodi 17 y 18 RAM 12 GB
+aV      RAM 12 GB
 p1089
 aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-12-advancedsettings.xml#userdata/advancedsettings.xml
 p1090
@@ -2199,7 +2199,7 @@ VF
 p1092
 aVK178-RAM-16
 p1093
-aV      Advanced Settings Kodi 17 y 18 RAM 16 GB
+aV      RAM 16 GB
 p1094
 aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-16-advancedsettings.xml#userdata/advancedsettings.xml
 p1095
@@ -2209,7 +2209,7 @@ VF
 p1097
 aVK178-ROM
 p1098
-aV      Advanced Settings Kodi 17 y 18 ROM
+aV      ROM
 p1099
 aVhttps://ankodi.github.io/AnKodi/Buffers/k178-o-advancedsettings.xml#userdata/advancedsettings.xml
 p1100
