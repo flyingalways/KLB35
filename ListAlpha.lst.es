@@ -2312,215 +2312,205 @@ ag5
 aa(lp1146
 VZ
 p1147
-aVTeamMilhanos
+aVTheCrew
 p1148
-aV      [COLOR 0xFF33FF99]Team Milhanos[/COLOR]
+aV      The Crew Repo
 p1149
-aVhttp://milhano.pt/fonte/kodi18/plugin.video.team.milhanos-1.5.zip
+aVhttps://team-crew.github.io/repository.thecrew-0.3.1.zip
 p1150
 ag5
 aa(lp1151
-VZ
-p1152
-aVTheCrew
-p1153
-aV      The Crew Repo
-p1154
-aVhttps://team-crew.github.io/repository.thecrew-0.3.1.zip
-p1155
-ag5
-aa(lp1156
 VD
-p1157
+p1152
 aS'U'
-p1158
+p1153
 aV[COLOR yellow]U[/COLOR]
-p1159
+p1154
 ag5
+ag5
+aa(lp1155
+VZ
+p1156
+aVURLResolver
+p1157
+aV      URLResolver
+p1158
+aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.1.00.zip
+p1159
 ag5
 aa(lp1160
 VZ
 p1161
-aVURLResolver
+aVUpnext
 p1162
-aV      URLResolver
+aV      [COLOR 0xFF33FF99]Upnext[/COLOR]
 p1163
-aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.1.00.zip
+aVhttps://mirrors.kodi.tv/addons/leia/service.upnext/service.upnext-1.1.5.zip
 p1164
 ag5
 aa(lp1165
 VZ
 p1166
-aVUpnext
+aVURLResolver
 p1167
-aV      [COLOR 0xFF33FF99]Upnext[/COLOR]
+aV      Urlresolver
 p1168
-aVhttps://mirrors.kodi.tv/addons/leia/service.upnext/service.upnext-1.1.5.zip
+aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.1.00.zip
 p1169
 ag5
 aa(lp1170
-VZ
-p1171
-aVURLResolver
-p1172
-aV      Urlresolver
-p1173
-aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.1.00.zip
-p1174
-ag5
-aa(lp1175
 VD
-p1176
+p1171
 aS'V'
-p1177
+p1172
 aV[COLOR yellow]V[/COLOR]
-p1178
+p1173
 ag5
+ag5
+aa(lp1174
+VZ
+p1175
+aVVPNElec
+p1176
+aV      VPN Elec
+p1177
+aVhttps://mariposa19.github.io/kelebek/Variados/service.vpn.manager-6.3.1.zip
+p1178
 ag5
 aa(lp1179
 VZ
 p1180
-aVVPNElec
+aVvideodevil
 p1181
-aV      VPN Elec
+aV      Videodevil
 p1182
-aVhttps://mariposa19.github.io/kelebek/Variados/service.vpn.manager-6.3.1.zip
+aVhttps://newuser1978.github.io/klb/klb/plugin.video.videodevil-1.7.184.zip
 p1183
 ag5
 aa(lp1184
 VZ
 p1185
-aVvideodevil
+aVVenom
 p1186
-aV      Videodevil
+aV      Venom Repo
 p1187
-aVhttps://newuser1978.github.io/klb/klb/plugin.video.videodevil-1.7.184.zip
+aVhttps://123venom.github.io/repository.venom-1.12.zip
 p1188
 ag5
 aa(lp1189
 VZ
 p1190
-aVVenom
+aVVikir
 p1191
-aV      Venom Repo
+aV      Vikir
 p1192
-aVhttps://123venom.github.io/repository.venom-1.12.zip
+aVhttps://github.com/kodi1/kodi1.github.io/blob/master/repo/plugin.video.vikir/plugin.video.vikir-0.19.4.14.zip
 p1193
 ag5
 aa(lp1194
-VZ
-p1195
-aVVikir
-p1196
-aV      Vikir
-p1197
-aVhttps://github.com/kodi1/kodi1.github.io/blob/master/repo/plugin.video.vikir/plugin.video.vikir-0.19.4.14.zip
-p1198
-ag5
-aa(lp1199
 VD
-p1200
+p1195
 aS'W'
-p1201
+p1196
 aV[COLOR yellow]W[/COLOR]
+p1197
+ag5
+ag5
+aa(lp1198
+VZ
+p1199
+aVWinner
+p1200
+aV      [COLOR 0xFF33FF99]Winner[/COLOR]
+p1201
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.winner.zip
 p1202
 ag5
-ag5
 aa(lp1203
-VZ
-p1204
-aVWinner
-p1205
-aV      [COLOR 0xFF33FF99]Winner[/COLOR]
-p1206
-aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.winner.zip
-p1207
-ag5
-aa(lp1208
 VD
-p1209
+p1204
 aS'X'
-p1210
+p1205
 aV[COLOR yellow]X[/COLOR]
-p1211
+p1206
 ag5
+ag5
+aa(lp1207
+VZ
+p1208
+aVXBMCTORRENT
+p1209
+aV      XBMCTORRENT
+p1210
+aVhttps://github.com/afedchin/xbmctorrent/releases/download/v0.7.9.ru/plugin.video.xbmctorrent-0.7.9.ru.zip
+p1211
 ag5
 aa(lp1212
 VZ
 p1213
-aVXBMCTORRENT
+aVxbmcpython
 p1214
-aV      XBMCTORRENT
+aV      Xbmc python
 p1215
-aVhttps://github.com/afedchin/xbmctorrent/releases/download/v0.7.9.ru/plugin.video.xbmctorrent-0.7.9.ru.zip
+aVhttps://newuser1978.github.io/klb/klb/xbmc.python-2.25.0.zip
 p1216
 ag5
 aa(lp1217
 VZ
 p1218
-aVxbmcpython
+aVxmltodict
 p1219
-aV      Xbmc python
+aV      xmltodict
 p1220
-aVhttps://newuser1978.github.io/klb/klb/xbmc.python-2.25.0.zip
+aVhttp://mirrors.kodi.tv/addons/leia/script.module.xmltodict/script.module.xmltodict-0.11.0.zip
 p1221
 ag5
 aa(lp1222
-VZ
-p1223
-aVxmltodict
-p1224
-aV      xmltodict
-p1225
-aVhttp://mirrors.kodi.tv/addons/leia/script.module.xmltodict/script.module.xmltodict-0.11.0.zip
-p1226
-ag5
-aa(lp1227
 VD
-p1228
+p1223
 aS'Y'
-p1229
+p1224
 aV[COLOR yellow]Y[/COLOR]
-p1230
+p1225
 ag5
+ag5
+aa(lp1226
+VZ
+p1227
+aVYouKids
+p1228
+aV      YouKids
+p1229
+aVhttps://fuentekodileia.github.io/addons-infantiles/plugin.video.YouKids.zip
+p1230
 ag5
 aa(lp1231
 VZ
 p1232
-aVYouKids
+aVYouMusic
 p1233
-aV      YouKids
+aV      YouMusic
 p1234
-aVhttps://fuentekodileia.github.io/addons-infantiles/plugin.video.YouKids.zip
+aVhttps://newuser1978.github.io/klb/klb/plugin.video.YouMusic.zip
 p1235
 ag5
 aa(lp1236
 VZ
 p1237
-aVYouMusic
+aVyoutubedll
 p1238
-aV      YouMusic
+aV      Youtubedll
 p1239
-aVhttps://newuser1978.github.io/klb/klb/plugin.video.YouMusic.zip
+aVhttps://fuentekodileia.github.io/scripts/script.module.youtube.dl.zip
 p1240
 ag5
 aa(lp1241
-VZ
-p1242
-aVyoutubedll
-p1243
-aV      Youtubedll
-p1244
-aVhttps://fuentekodileia.github.io/scripts/script.module.youtube.dl.zip
-p1245
-ag5
-aa(lp1246
 VD
-p1247
+p1242
 aS'Z'
-p1248
+p1243
 aV[COLOR yellow]Z[/COLOR]
-p1249
+p1244
 ag5
 ag5
 aa.
