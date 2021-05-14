@@ -2369,7 +2369,7 @@ aVURLResolver
 p1176
 aV      URLResolver
 p1177
-aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.1.00.zip
+aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.1.01.zip
 p1178
 ag6
 aa(lp1179
@@ -2856,7 +2856,7 @@ aVURLResolver
 p1418
 aV      Urlresolver
 p1419
-aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.1.00.zip
+aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.1.01.zip
 p1420
 ag6
 aa(lp1421

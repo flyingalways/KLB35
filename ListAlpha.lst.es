@@ -2335,7 +2335,7 @@ aVURLResolver
 p1157
 aV      URLResolver
 p1158
-aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.1.00.zip
+aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.1.01.zip
 p1159
 ag5
 aa(lp1160
@@ -2355,7 +2355,7 @@ aVURLResolver
 p1167
 aV      Urlresolver
 p1168
-aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.1.00.zip
+aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.1.01.zip
 p1169
 ag5
 aa(lp1170
