@@ -1072,7 +1072,7 @@ aVMilhanos
 p534
 aV      [COLOR 0xFF33FF99]Team Milhanos[/COLOR]
 p535
-aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.team.milhanos-1.1+matrix.1.zip
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.team.milhanos-1.5.zip
 p536
 ag6
 aa(lp537
