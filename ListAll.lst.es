@@ -604,7 +604,7 @@ aVDOQMENTAL
 p301
 aV      [COLOR 0xFF33FF99]DOQMENTAL[/COLOR]
 p302
-aVhttps://kelebekmariposas.github.io/addons/plugin.video.doqmental.zip
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.doqmental.zip
 p303
 ag6
 aa(lp304

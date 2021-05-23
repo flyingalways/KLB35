@@ -582,7 +582,7 @@ aVDOQMENTAL
 p289
 aV      [COLOR 0xFF33FF99]DOQMENTAL[/COLOR]
 p290
-aVhttps://kelebekmariposas.github.io/addons/plugin.video.doqmental.zip
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.doqmental.zip
 p291
 ag5
 aa(lp292
