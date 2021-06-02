@@ -684,7 +684,7 @@ aVAlfa
 p341
 aV      [COLOR 0xFF33FF99]Alfa[/COLOR]
 p342
-aVhttps://github.com/alfa-addon/alfa-repo/raw/master/plugin.video.alfa/plugin.video.alfa-3.4.5.zip
+aVhttps://github.com/alfa-addon/alfa-repo/raw/master/plugin.video.alfa/plugin.video.alfa-3.4.6.zip
 p343
 ag6
 aa(lp344

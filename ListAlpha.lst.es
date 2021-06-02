@@ -75,7 +75,7 @@ aVAlfa
 p37
 aV      [COLOR 0xFF33FF99]Alfa[/COLOR]
 p38
-aVhttps://github.com/alfa-addon/alfa-repo/raw/master/plugin.video.alfa/plugin.video.alfa-3.4.5.zip
+aVhttps://github.com/alfa-addon/alfa-repo/raw/master/plugin.video.alfa/plugin.video.alfa-3.4.6.zip
 p39
 ag5
 aa(lp40
