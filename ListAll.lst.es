@@ -1894,7 +1894,7 @@ aVDiamons_Repo
 p941
 aV      [COLOR 0xFF33FF99]Diamond Repo[/COLOR]
 p942
-aVhttp://diamondbuild.xyz/repository.diamond-kodi18-repo-10.60.zip
+aVhttp://diamondbuild.xyz/repository.diamond-kodi18-repo-10.63.zip
 p943
 ag6
 aa(lp944
@@ -2557,7 +2557,7 @@ aVDiamons_Repo
 p1269
 aV      [COLOR 0xFF33FF99]Diamond Repo[/COLOR]
 p1270
-aVhttp://diamondbuild.xyz/repository.diamond-kodi18-repo-10.60.zip
+aVhttp://diamondbuild.xyz/repository.diamond-kodi18-repo-10.63.zip
 p1271
 ag6
 aa(lp1272
