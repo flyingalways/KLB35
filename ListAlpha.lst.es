@@ -1530,7 +1530,7 @@ aVPalantir2
 p757
 aV      [COLOR 0xFF33FF99]Palantir 2[/COLOR]
 p758
-aVhttps://github.com/Palantiraddon/Repo/raw/master/Palantir/plugin.video.palantir2/plugin.video.palantir2-2.1.10.zip
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.palantir2.zip
 p759
 ag5
 aa(lp760

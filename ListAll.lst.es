@@ -654,7 +654,7 @@ aVPalantir2
 p326
 aV      [COLOR 0xFF33FF99]Palantir 2[/COLOR]
 p327
-aVhttps://github.com/Palantiraddon/Repo/raw/master/Palantir/plugin.video.palantir2/plugin.video.palantir2-2.1.10.zip
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.palantir2.zip
 p328
 ag6
 aa(lp329
