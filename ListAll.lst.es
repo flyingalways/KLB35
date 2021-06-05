@@ -962,7 +962,7 @@ aVATRESPLAYER
 p479
 aV      atresplayer
 p480
-aVhttps://hirayasoftware.github.io/plugin.video.atresplayer/plugin.video.atresplayer-1.4.1zip
+aVhttps://hirayasoftware.github.io/plugin.video.atresplayer/plugin.video.atresplayer-1.4.2.zip
 p481
 ag6
 aa(lp482
@@ -1032,7 +1032,7 @@ aVMitele
 p514
 aV      Mitele Hiraya
 p515
-aVhttps://hirayasoftware.github.io/plugin.video.mitele/plugin.video.mitele-1.3.0.zip
+aVhttps://hirayasoftware.github.io/plugin.video.mitele/plugin.video.mitele-1.3.1.zip
 p516
 ag6
 aa(lp517
