@@ -1408,7 +1408,7 @@ aVPVYoutube
 p700
 aV      [COLOR 0xFF33FF99]Plugin Video Youtube[/COLOR]
 p701
-aVhttps://mirrors.kodi.tv/addons/leia/plugin.video.youtube/plugin.video.youtube-6.8.10.zip
+aVhttps://github.com/mariposa19/kelebek/raw/master/Variados/plugin.video.youtube-6.8.15.zip
 p702
 ag6
 aa(lp703

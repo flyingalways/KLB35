@@ -1580,7 +1580,7 @@ aVPVYoutube
 p782
 aV      [COLOR 0xFF33FF99]Plugin Video Youtube[/COLOR]
 p783
-aVhttps://mirrors.kodi.tv/addons/leia/plugin.video.youtube/plugin.video.youtube-6.8.10.zip
+aVhttps://github.com/mariposa19/kelebek/raw/master/Variados/plugin.video.youtube-6.8.15.zip
 p784
 ag5
 aa(lp785
