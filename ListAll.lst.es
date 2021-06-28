@@ -186,13 +186,13 @@ ag6
 aa(lp90
 VM
 p91
-aVTheHater
+aVCuentaBloqueada
 p92
-aV      The Hater - VO
+aV      Cuenta bloqueada
 p93
-aVUn joven ambicioso comienza a trabajar en el oscuro mundo de las tácticas difamatorias de las redes sociales y descubre que sus juegos virtuales tienen consecuencias muy reales.
+aVAlice es una adolescente que se dedica a ser modelo de Internet, pero está obsesionada con ingresar al grupo de las 50 chicas más populares del sitio. Una mañana, descubre que su cuenta está transmitiendo en vivo, aun cuando ella no está conectada; intenta acceder con otra cuenta y es bloqueada inmediatamente. Poco a poco, descubre que alguien robó su rostro e identidad, así que se dedica a buscarla para recuperar su cuenta y popularidad. Un thriller psicológico que cuestiona el riesgo y la facilidad con la que alguien en el entorno digital puede no sólo obtener contraseñas, sino la imagen personal y utilizarla a su conveniencia.
 p94
-aVhttps://archive.org/download/the-hater_202103/The%20Hater.m3u8
+aVhttps://archive.org/download/cam_20210628/Cam.mp4
 p95
 aa(lp96
 VM
