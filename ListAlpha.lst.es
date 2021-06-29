@@ -928,7 +928,7 @@ aVHorus
 p460
 aV      [COLOR 0xFF33FF99]Horus[/COLOR]
 p461
-aVhttps://fuentekodileia.github.io/programas/script.module.horus_1.1.5
+aVhttps://github.com/mariposa19/kelebek/raw/master/Variados/script.module.horus.zip
 p462
 ag5
 aa(lp463
