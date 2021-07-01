@@ -318,7 +318,7 @@ aVHorus
 p160
 aV         [COLOR 0xFF33FF99]Horus[/COLOR]
 p161
-aVhttps://github.com/mariposa19/kelebek/raw/master/Variados/script.module.horus.zip
+aVhttps://fuentekodileia.github.io/programas/script.module.horus_1.1.5
 p162
 ag6
 aa(lp163
