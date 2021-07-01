@@ -729,9 +729,9 @@ ag6
 aa(lp363
 VZ
 p364
-aVSamsungTVPlusRepo
+aVDisney+Repo
 p365
-aV      [COLOR 0xFF33FF99]Samsung tv plus[/COLOR]
+aV      [COLOR 0xFF33FF99]Disney +[/COLOR]
 p366
 aVhttps://k.slyguy.xyz/repository.slyguy.zip
 p367
@@ -739,71 +739,71 @@ ag6
 aa(lp368
 VZ
 p369
-aVDisney+Repo
+aVAmazonRepo
 p370
-aV      [COLOR 0xFF33FF99]Disney +[/COLOR]
+aV      Amazon
 p371
-aVhttps://k.slyguy.xyz/repository.slyguy.zip
+aVhttps://kodiadictos.github.io/fuente/Repositorios/repository.sandmann79.plugins-1.0.3-leia.zip
 p372
 ag6
 aa(lp373
 VZ
 p374
-aVAmazonRepo
+aVHBO
 p375
-aV      Amazon
+aV      [COLOR 0xFF33FF99]HBO Go[/COLOR]
 p376
-aVhttps://kodiadictos.github.io/fuente/Repositorios/repository.sandmann79.plugins-1.0.3-leia.zip
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.hbogoeu-master.zip
 p377
 ag6
 aa(lp378
 VZ
 p379
-aVHBO
+aVNetflixRepo
 p380
-aV      [COLOR 0xFF33FF99]HBO Go[/COLOR]
+aV      Netflix Repo
 p381
-aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.hbogoeu-master.zip
+aVhttps://github.com/CastagnaIT/repository.castagnait/raw/master/repository.castagnait-1.0.1.zip
 p382
 ag6
 aa(lp383
 VZ
 p384
-aVNetflixRepo
+aVPlex
 p385
-aV      Netflix Repo
+aV      Plex
 p386
-aVhttps://github.com/CastagnaIT/repository.castagnait/raw/master/repository.castagnait-1.0.1.zip
+aVhttps://mirrors.kodi.tv/addons/leia/script.plex/script.plex-0.2.3.zip
 p387
 ag6
 aa(lp388
 VZ
 p389
-aVPlex
+aVMovistarTVRepo
 p390
-aV      Plex
+aV      MovistarTV Repo
 p391
-aVhttps://mirrors.kodi.tv/addons/leia/script.plex/script.plex-0.2.3.zip
+aVhttps://mariposa19.github.io/kelebek/Variados/repository.movistarTV.Leia.zip
 p392
 ag6
 aa(lp393
-VZ
-p394
-aVMovistarTVRepo
-p395
-aV      MovistarTV Repo
-p396
-aVhttps://mariposa19.github.io/kelebek/Variados/repository.movistarTV.Leia.zip
-p397
-ag6
-aa(lp398
 VD
-p399
+p394
 aVTV
-p400
+p395
 aV[COLOR yellow]TV[/COLOR]
-p401
+p396
 ag6
+ag6
+aa(lp397
+VZ
+p398
+aVSamsungTVPlusRepo
+p399
+aV      [COLOR 0xFF33FF99]Samsung tv plus[/COLOR]
+p400
+aVhttps://k.slyguy.xyz/repository.slyguy.zip
+p401
 ag6
 aa(lp402
 VZ
