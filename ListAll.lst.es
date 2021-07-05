@@ -2389,7 +2389,7 @@ aVResolveURL
 p1186
 aV      [COLOR 0xFF33FF99]ResolveURL[/COLOR]
 p1187
-aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.resolveurl-5.1.31.zip
+aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.resolveurl-5.1.34.zip
 p1188
 ag6
 aa(lp1189
@@ -2399,7 +2399,7 @@ aVURLResolver
 p1191
 aV      URLResolver
 p1192
-aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.1.02.zip
+aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.1.03.zip
 p1193
 ag6
 aa(lp1194
@@ -2856,7 +2856,7 @@ aVResolveURL
 p1418
 aV      [COLOR 0xFF33FF99]ResolveURL[/COLOR]
 p1419
-aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.resolveurl-5.1.31.zip
+aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.resolveurl-5.1.34.zip
 p1420
 ag6
 aa(lp1421
@@ -2886,7 +2886,7 @@ aVURLResolver
 p1433
 aV      Urlresolver
 p1434
-aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.1.02.zip
+aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.urlresolver-6.1.03.zip
 p1435
 ag6
 aa(lp1436
