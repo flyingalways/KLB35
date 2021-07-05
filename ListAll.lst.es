@@ -1920,9 +1920,9 @@ ag6
 aa(lp954
 VZ
 p955
-aVVikir
+aVVikirmatrix
 p956
-aV      Vikir
+aV      [COLOR 0xFF33FF99]Vikir[/COLOR]
 p957
 aVhttps://github.com/kodi1/kodi1.github.io/raw/master/repo/plugin.video.vikir/plugin.video.vikir-0.19.4.15.zip
 p958

@@ -2430,9 +2430,9 @@ ag5
 aa(lp1204
 VZ
 p1205
-aVVikir
+aVVikirmatrix
 p1206
-aV      Vikir
+aV      [COLOR 0xFF33FF99]Vikir[/COLOR]
 p1207
 aVhttps://github.com/kodi1/kodi1.github.io/raw/master/repo/plugin.video.vikir/plugin.video.vikir-0.19.4.15.zip
 p1208
