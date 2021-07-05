@@ -2434,7 +2434,7 @@ aVVikir
 p1206
 aV      Vikir
 p1207
-aVhttps://github.com/kodi1/kodi1.github.io/blob/master/repo/plugin.video.vikir/plugin.video.vikir-0.19.4.14.zip
+aVhttps://github.com/kodi1/kodi1.github.io/raw/master/repo/plugin.video.vikir/plugin.video.vikir-0.19.4.15.zip
 p1208
 ag5
 aa(lp1209
