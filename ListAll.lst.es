@@ -1426,9 +1426,9 @@ VZ
 p709
 aVcristalazul
 p710
-aV      Cristal Azul
+aV      [COLOR 0xFF33FF99]Cristal Azul[/COLOR]
 p711
-aVhttps://mariposa19.github.io/kelebek/Variados/plugin.video.cristalazul-0.0.12.zip
+aVhttps://mariposa19.github.io/kelebek/Variados/plugin.video.cristalazul-3.0.0.zip
 p712
 ag6
 aa(lp713

@@ -441,9 +441,9 @@ VZ
 p219
 aVcristalazul
 p220
-aV      Cristal Azul
+aV      [COLOR 0xFF33FF99]Cristal Azul[/COLOR]
 p221
-aVhttps://mariposa19.github.io/kelebek/Variados/plugin.video.cristalazul-0.0.12.zip
+aVhttps://mariposa19.github.io/kelebek/Variados/plugin.video.cristalazul-3.0.0.zip
 p222
 ag5
 aa(lp223
