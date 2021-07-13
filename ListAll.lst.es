@@ -92,7 +92,7 @@ VR
 p45
 aVVisLog
 p46
-aV      [COLOR yellow]Visualización Log[/COLOR]
+aV      [COLOR yellow]Visualizacion Log[/COLOR]
 p47
 aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/logoptions.bin
 p48
@@ -102,7 +102,7 @@ VR
 p50
 aVAnaLog
 p51
-aV      [COLOR yellow]Análisis Log[/COLOR]
+aV      [COLOR yellow]Analisis Log[/COLOR]
 p52
 aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/analog.bin
 p53
