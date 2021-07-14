@@ -564,7 +564,7 @@ aVAlfa
 p281
 aV      [COLOR 0xFF33FF99]Alfa[/COLOR]
 p282
-aVhttps://github.com/alfa-addon/alfa-repo/raw/master/plugin.video.alfa/plugin.video.alfa-3.4.12.zip
+aVhttps://github.com/alfa-addon/alfa-repo/raw/master/plugin.video.alfa/plugin.video.alfa-3.4.13.zip
 p283
 ag5
 aa(lp284
