@@ -926,285 +926,325 @@ aVhttps://github.com/i96751414/repository.github/archive/v0.0.6.zip
 p456
 ag5
 aa(lp457
-VD
+VZ
 p458
-aVBuffer
+aVElementumA32
 p459
-aV[COLOR yellow]Buffer[/COLOR]
+aV      [COLOR 0xFF33FF99]Elementum Android 32[/COLOR]
 p460
+aVhttps://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.58/plugin.video.elementum-0.1.58.android_arm.zip
+p461
 ag5
-ag5
-aa(lp461
-VF
-p462
-aVK178-RAM-M1
+aa(lp462
+VZ
 p463
-aV      RAM MENOR 1 GB
+aVElementumA64
 p464
-aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-m1-advancedsettings.xml#userdata/advancedsettings.xml
+aV      [COLOR 0xFF33FF99]Elementum Android 64[/COLOR]
 p465
+aVhttps://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.58/plugin.video.elementum-0.1.58.android_arm64.zip
+p466
 ag5
-aa(lp466
-VF
-p467
-aVK178-RAM-1
+aa(lp467
+VZ
 p468
-aV      RAM 1 GB
+aVElementumW32
 p469
-aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-1-advancedsettings.xml#userdata/advancedsettings.xml
+aV      [COLOR 0xFF33FF99]Elementum Windows 32bits[/COLOR]
 p470
+aVhttps://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.58/plugin.video.elementum-0.1.58.windows_x64.zip
+p471
 ag5
-aa(lp471
-VF
-p472
-aVK178-RAM-2
+aa(lp472
+VZ
 p473
-aV      RAM 2 GB
+aVElementumW64
 p474
-aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-2-advancedsettings.xml#userdata/advancedsettings.xml
+aV      [COLOR 0xFF33FF99]Elementum Windows 64bits[/COLOR]
 p475
+aVhttps://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.58/plugin.video.elementum-0.1.58.windows_x86.zip
+p476
 ag5
-aa(lp476
-VF
-p477
-aVK178-RAM-3
+aa(lp477
+VD
 p478
-aV      RAM 3 GB
+aVBuffer
 p479
-aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-3-advancedsettings.xml#userdata/advancedsettings.xml
+aV[COLOR yellow]Buffer[/COLOR]
 p480
+ag5
 ag5
 aa(lp481
 VF
 p482
-aVK178-RAM-4
+aVK178-RAM-M1
 p483
-aV      RAM 4 GB
+aV      RAM MENOR 1 GB
 p484
-aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-4-advancedsettings.xml#userdata/advancedsettings.xml
+aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-m1-advancedsettings.xml#userdata/advancedsettings.xml
 p485
 ag5
 aa(lp486
 VF
 p487
-aVK178-RAM-6
+aVK178-RAM-1
 p488
-aV      RAM 6 GB
+aV      RAM 1 GB
 p489
-aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-6-advancedsettings.xml#userdata/advancedsettings.xml
+aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-1-advancedsettings.xml#userdata/advancedsettings.xml
 p490
 ag5
 aa(lp491
 VF
 p492
-aVK178-RAM-8
+aVK178-RAM-2
 p493
-aV      RAM 8 GB
+aV      RAM 2 GB
 p494
-aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-8-advancedsettings.xml#userdata/advancedsettings.xml
+aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-2-advancedsettings.xml#userdata/advancedsettings.xml
 p495
 ag5
 aa(lp496
 VF
 p497
-aVK178-RAM-12
+aVK178-RAM-3
 p498
-aV      RAM 12 GB
+aV      RAM 3 GB
 p499
-aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-12-advancedsettings.xml#userdata/advancedsettings.xml
+aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-3-advancedsettings.xml#userdata/advancedsettings.xml
 p500
 ag5
 aa(lp501
 VF
 p502
-aVK178-RAM-16
+aVK178-RAM-4
 p503
-aV      RAM 16 GB
+aV      RAM 4 GB
 p504
-aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-16-advancedsettings.xml#userdata/advancedsettings.xml
+aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-4-advancedsettings.xml#userdata/advancedsettings.xml
 p505
 ag5
 aa(lp506
 VF
 p507
-aVK178-ROM
+aVK178-RAM-6
 p508
-aV      ROM
+aV      RAM 6 GB
 p509
-aVhttps://ankodi.github.io/AnKodi/Buffers/k178-o-advancedsettings.xml#userdata/advancedsettings.xml
+aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-6-advancedsettings.xml#userdata/advancedsettings.xml
 p510
 ag5
 aa(lp511
-VD
+VF
 p512
-aVPH
+aVK178-RAM-8
 p513
-aV[COLOR yellow]Programas y Herramientas[/COLOR]
+aV      RAM 8 GB
 p514
+aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-8-advancedsettings.xml#userdata/advancedsettings.xml
+p515
 ag5
-ag5
-aa(lp515
-VZ
-p516
-aVHorus
+aa(lp516
+VF
 p517
-aV      [COLOR 0xFF33FF99]Horus[/COLOR]
+aVK178-RAM-12
 p518
-aVhttps://mariposa19.github.io/kelebek/Variados/script.module.horus.zip
+aV      RAM 12 GB
 p519
+aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-12-advancedsettings.xml#userdata/advancedsettings.xml
+p520
 ag5
-aa(lp520
-VR
-p521
-aVEN_ISARTMP
+aa(lp521
+VF
 p522
-aV      Habilita InputStream Adaptive y InputStream RTMP
+aVK178-RAM-16
 p523
-aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/enable_isartmp.bin
+aV      RAM 16 GB
 p524
+aVhttps://ankodi.github.io/AnKodi/Buffers/k178-a-16-advancedsettings.xml#userdata/advancedsettings.xml
+p525
 ag5
-aa(lp525
-VD
-p526
-aVDCero
+aa(lp526
+VF
 p527
-aV[COLOR yellow]Desde Cero[/COLOR]
+aVK178-ROM
 p528
-ag5
-ag5
-aa(lp529
-VZ
+aV      ROM
+p529
+aVhttps://ankodi.github.io/AnKodi/Buffers/k178-o-advancedsettings.xml#userdata/advancedsettings.xml
 p530
-aVResolveURL
-p531
-aV      [COLOR 0xFF33FF99]ResolveURL[/COLOR]
+ag5
+aa(lp531
+VD
 p532
-aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.resolveurl-5.1.34.zip
+aVPH
 p533
+aV[COLOR yellow]Programas y Herramientas[/COLOR]
+p534
 ag5
-aa(lp534
-VD
-p535
-aVQJ
+ag5
+aa(lp535
+VZ
 p536
-aV[COLOR yellow]Quieres Jugar[/COLOR]
+aVHorus
 p537
-ag5
-ag5
-aa(lp538
-VZ
+aV      [COLOR 0xFF33FF99]Horus[/COLOR]
+p538
+aVhttps://mariposa19.github.io/kelebek/Variados/script.module.horus.zip
 p539
-aVIAGL
-p540
-aV      [COLOR 0xFF33FF99]IAGL (Internet Archive Game Launcher)[/COLOR]
+ag5
+aa(lp540
+VR
 p541
-aVhttps://github.com/zach-morris/repository.zachmorris/raw/master/plugin.program.iagl/plugin.program.iagl-2.1.2.zip
+aVEN_ISARTMP
 p542
-ag5
-aa(lp543
-VC
+aV      Habilita InputStream Adaptive y InputStream RTMP
+p543
+aVhttps://flyingalways.github.io/KLB35/KLB_Scripts/enable_isartmp.bin
 p544
-aVIAGLSettingA
-p545
-aV      Configure IAGL for RetroArch - Android
+ag5
+aa(lp545
+VD
 p546
-aVhttps://mariposa19.github.io/kelebek/Settings/IAGL-settingsA.zip#userdata/addon_data
+aVDCero
 p547
+aV[COLOR yellow]Desde Cero[/COLOR]
+p548
 ag5
-aa(lp548
-VC
-p549
-aVIAGLSettingW
+ag5
+aa(lp549
+VZ
 p550
-aV      Configure IAGL for RetroArch - Windows
-p551
-aVhttps://mariposa19.github.io/kelebek/Settings/IAGL-settingsW.zip#userdata/addon_data
-p552
-ag5
-aa(lp553
-VD
-p554
-aVRepositorios
-p555
-aV[COLOR yellow]Repositorios[/COLOR]
-p556
-ag5
-ag5
-aa(lp557
-VZ
-p558
-aVDiamons_Repo
-p559
-aV      [COLOR 0xFF33FF99]Diamond Repo[/COLOR]
-p560
-aVhttp://diamondbuild.xyz/repository.diamond-kodi18-repo-10.63.zip
-p561
-ag5
-aa(lp562
-VZ
-p563
-aVRepoBuga
-p564
-aV      [COLOR 0xFF33FF99]Repo Bugatsinho[/COLOR]
-p565
-aVhttps://kodiadictos.github.io/fuente/Repositorios/repository.bugatsinho-2.1.zip
-p566
-ag5
-aa(lp567
-VZ
-p568
-aVRepoAlfa
-p569
-aV      [COLOR 0xFF33FF99]Repo Alfa[/COLOR]
-p570
-aVhttps://alfa-addon.com/alfa/repository.alfa-addon-1.0.6.zip
-p571
-ag5
-aa(lp572
-VD
-p573
-aVScripts
-p574
-aV[COLOR yellow]Scripts[/COLOR]
-p575
-ag5
-ag5
-aa(lp576
-VZ
-p577
-aVUpnext
-p578
-aV      [COLOR 0xFF33FF99]Upnext[/COLOR]
-p579
-aVhttps://mirrors.kodi.tv/addons/leia/service.upnext/service.upnext-1.1.5.zip
-p580
-ag5
-aa(lp581
-VZ
-p582
 aVResolveURL
-p583
+p551
 aV      [COLOR 0xFF33FF99]ResolveURL[/COLOR]
-p584
+p552
 aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.resolveurl-5.1.34.zip
+p553
+ag5
+aa(lp554
+VD
+p555
+aVQJ
+p556
+aV[COLOR yellow]Quieres Jugar[/COLOR]
+p557
+ag5
+ag5
+aa(lp558
+VZ
+p559
+aVIAGL
+p560
+aV      [COLOR 0xFF33FF99]IAGL (Internet Archive Game Launcher)[/COLOR]
+p561
+aVhttps://github.com/zach-morris/repository.zachmorris/raw/master/plugin.program.iagl/plugin.program.iagl-2.1.2.zip
+p562
+ag5
+aa(lp563
+VC
+p564
+aVIAGLSettingA
+p565
+aV      Configure IAGL for RetroArch - Android
+p566
+aVhttps://mariposa19.github.io/kelebek/Settings/IAGL-settingsA.zip#userdata/addon_data
+p567
+ag5
+aa(lp568
+VC
+p569
+aVIAGLSettingW
+p570
+aV      Configure IAGL for RetroArch - Windows
+p571
+aVhttps://mariposa19.github.io/kelebek/Settings/IAGL-settingsW.zip#userdata/addon_data
+p572
+ag5
+aa(lp573
+VD
+p574
+aVRepositorios
+p575
+aV[COLOR yellow]Repositorios[/COLOR]
+p576
+ag5
+ag5
+aa(lp577
+VZ
+p578
+aVDiamons_Repo
+p579
+aV      [COLOR 0xFF33FF99]Diamond Repo[/COLOR]
+p580
+aVhttp://diamondbuild.xyz/repository.diamond-kodi18-repo-10.63.zip
+p581
+ag5
+aa(lp582
+VZ
+p583
+aVRepoBuga
+p584
+aV      [COLOR 0xFF33FF99]Repo Bugatsinho[/COLOR]
 p585
+aVhttps://kodiadictos.github.io/fuente/Repositorios/repository.bugatsinho-2.1.zip
+p586
 ag5
-aa(lp586
-VD
-p587
-aVSkins
+aa(lp587
+VZ
 p588
-aV[COLOR yellow]Skins[/COLOR]
+aVRepoAlfa
 p589
-ag5
-ag5
-aa(lp590
-VD
+aV      [COLOR 0xFF33FF99]Repo Alfa[/COLOR]
+p590
+aVhttps://alfa-addon.com/alfa/repository.alfa-addon-1.0.6.zip
 p591
-aVSkinsAnabel
-p592
-aV   [COLOR yellow]Skins Anabel[/COLOR]
+ag5
+aa(lp592
+VD
 p593
+aVScripts
+p594
+aV[COLOR yellow]Scripts[/COLOR]
+p595
+ag5
+ag5
+aa(lp596
+VZ
+p597
+aVUpnext
+p598
+aV      [COLOR 0xFF33FF99]Upnext[/COLOR]
+p599
+aVhttps://mirrors.kodi.tv/addons/leia/service.upnext/service.upnext-1.1.5.zip
+p600
+ag5
+aa(lp601
+VZ
+p602
+aVResolveURL
+p603
+aV      [COLOR 0xFF33FF99]ResolveURL[/COLOR]
+p604
+aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.resolveurl-5.1.34.zip
+p605
+ag5
+aa(lp606
+VD
+p607
+aVSkins
+p608
+aV[COLOR yellow]Skins[/COLOR]
+p609
+ag5
+ag5
+aa(lp610
+VD
+p611
+aVSkinsAnabel
+p612
+aV   [COLOR yellow]Skins Anabel[/COLOR]
+p613
 ag5
 ag5
 aa.

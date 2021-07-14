@@ -709,7 +709,7 @@ VZ
 p352
 aVElementumA32
 p353
-aV      Elementum Android 32
+aV      [COLOR 0xFF33FF99]Elementum Android 32[/COLOR]
 p354
 aVhttps://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.58/plugin.video.elementum-0.1.58.android_arm.zip
 p355
@@ -719,7 +719,7 @@ VZ
 p357
 aVElementumA64
 p358
-aV      Elementum Android 64
+aV      [COLOR 0xFF33FF99]Elementum Android 64[/COLOR]
 p359
 aVhttps://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.58/plugin.video.elementum-0.1.58.android_arm64.zip
 p360
@@ -729,7 +729,7 @@ VZ
 p362
 aVElementumW32
 p363
-aV      Elementum Windows 32bits
+aV      [COLOR 0xFF33FF99]Elementum Windows 32bits[/COLOR]
 p364
 aVhttps://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.58/plugin.video.elementum-0.1.58.windows_x64.zip
 p365
@@ -739,7 +739,7 @@ VZ
 p367
 aVElementumW64
 p368
-aV      Elementum Windows 64bits
+aV      [COLOR 0xFF33FF99]Elementum Windows 64bits[/COLOR]
 p369
 aVhttps://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.58/plugin.video.elementum-0.1.58.windows_x86.zip
 p370

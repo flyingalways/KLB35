@@ -205,290 +205,290 @@ p100
 ag5
 ag5
 aa(lp101
-VD
+VZ
 p102
-aS'F'
+aVElementumA32
 p103
-aV[COLOR yellow]F[/COLOR]
+aV      [COLOR 0xFF33FF99]Elementum Android 32[/COLOR]
 p104
+aVhttps://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.58/plugin.video.elementum-0.1.58.android_arm.zip
+p105
 ag5
-ag5
-aa(lp105
-VD
-p106
-aS'G'
+aa(lp106
+VZ
 p107
-aV[COLOR yellow]G[/COLOR]
+aVElementumA64
 p108
-ag5
-ag5
-aa(lp109
-VZ
+aV      [COLOR 0xFF33FF99]Elementum Android 64[/COLOR]
+p109
+aVhttps://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.58/plugin.video.elementum-0.1.58.android_arm64.zip
 p110
-aVgoogledrive
-p111
-aV      [COLOR 0xFF33FF99]Google Drive[/COLOR]
+ag5
+aa(lp111
+VZ
 p112
-aVhttps://mirrors.kodi.tv/addons/leia/plugin.googledrive/plugin.googledrive-1.4.3.zip
+aVElementumW32
 p113
-ag5
-aa(lp114
-VD
+aV      [COLOR 0xFF33FF99]Elementum Windows 32bits[/COLOR]
+p114
+aVhttps://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.58/plugin.video.elementum-0.1.58.windows_x64.zip
 p115
-aS'H'
-p116
-aV[COLOR yellow]H[/COLOR]
+ag5
+aa(lp116
+VZ
 p117
-ag5
-ag5
-aa(lp118
-VZ
+aVElementumW64
+p118
+aV      [COLOR 0xFF33FF99]Elementum Windows 64bits[/COLOR]
 p119
-aVHorus
+aVhttps://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.58/plugin.video.elementum-0.1.58.windows_x86.zip
 p120
-aV      [COLOR 0xFF33FF99]Horus[/COLOR]
-p121
-aVhttps://github.com/mariposa19/kelebek/raw/master/Variados/script.module.horus.zip
+ag5
+aa(lp121
+VD
 p122
-ag5
-aa(lp123
-VZ
+aS'F'
+p123
+aV[COLOR yellow]F[/COLOR]
 p124
-aVHBO
-p125
-aV      [COLOR 0xFF33FF99]HBO Go[/COLOR]
+ag5
+ag5
+aa(lp125
+VD
 p126
-aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.hbogoeu-master.zip
+aS'G'
 p127
+aV[COLOR yellow]G[/COLOR]
+p128
 ag5
-aa(lp128
+ag5
+aa(lp129
 VZ
-p129
-aVHorus
 p130
-aV      [COLOR 0xFF33FF99]Horus[/COLOR]
+aVgoogledrive
 p131
-aVhttps://mariposa19.github.io/kelebek/Variados/script.module.horus.zip
+aV      [COLOR 0xFF33FF99]Google Drive[/COLOR]
 p132
+aVhttps://mirrors.kodi.tv/addons/leia/plugin.googledrive/plugin.googledrive-1.4.3.zip
+p133
 ag5
-aa(lp133
+aa(lp134
 VD
-p134
-aS'I'
 p135
-aV[COLOR yellow]I[/COLOR]
+aS'H'
 p136
+aV[COLOR yellow]H[/COLOR]
+p137
 ag5
 ag5
-aa(lp137
+aa(lp138
 VZ
-p138
-aVIAGL
 p139
-aV      [COLOR 0xFF33FF99]IAGL (Internet Archive Game Launcher)[/COLOR]
+aVHorus
 p140
-aVhttps://github.com/zach-morris/repository.zachmorris/raw/master/plugin.program.iagl/plugin.program.iagl-2.1.2.zip
+aV      [COLOR 0xFF33FF99]Horus[/COLOR]
 p141
+aVhttps://github.com/mariposa19/kelebek/raw/master/Variados/script.module.horus.zip
+p142
 ag5
-aa(lp142
-VD
-p143
-aS'J'
+aa(lp143
+VZ
 p144
-aV[COLOR yellow]J[/COLOR]
+aVHBO
 p145
-ag5
-ag5
-aa(lp146
-VD
+aV      [COLOR 0xFF33FF99]HBO Go[/COLOR]
+p146
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.hbogoeu-master.zip
 p147
-aS'K'
-p148
-aV[COLOR yellow]K[/COLOR]
+ag5
+aa(lp148
+VZ
 p149
-ag5
-ag5
-aa(lp150
-VZ
+aVHorus
+p150
+aV      [COLOR 0xFF33FF99]Horus[/COLOR]
 p151
-aVKoditv
+aVhttps://mariposa19.github.io/kelebek/Variados/script.module.horus.zip
 p152
-aV      [COLOR 0xFF33FF99]Kodi tv[/COLOR]
-p153
-aVhttps://fuente-tvchopo.github.io/tvchopo/plugin.video.koditv-2.zip
+ag5
+aa(lp153
+VD
 p154
-ag5
-aa(lp155
-VD
+aS'I'
+p155
+aV[COLOR yellow]I[/COLOR]
 p156
-aS'L'
-p157
-aV[COLOR yellow]L[/COLOR]
+ag5
+ag5
+aa(lp157
+VZ
 p158
-ag5
-ag5
-aa(lp159
-VD
+aVIAGL
+p159
+aV      [COLOR 0xFF33FF99]IAGL (Internet Archive Game Launcher)[/COLOR]
 p160
-aS'M'
+aVhttps://github.com/zach-morris/repository.zachmorris/raw/master/plugin.program.iagl/plugin.program.iagl-2.1.2.zip
 p161
-aV[COLOR yellow]M[/COLOR]
-p162
 ag5
-ag5
-aa(lp163
-VZ
+aa(lp162
+VD
+p163
+aS'J'
 p164
-aVMediaExplorer
+aV[COLOR yellow]J[/COLOR]
 p165
-aV      [COLOR 0xFF33FF99]MediaExplorer[/COLOR]
-p166
-aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.mediaexplorer.zip
+ag5
+ag5
+aa(lp166
+VD
 p167
-ag5
-aa(lp168
-VZ
+aS'K'
+p168
+aV[COLOR yellow]K[/COLOR]
 p169
-aVMiteleChopo
-p170
-aV      [COLOR 0xFF33FF99]MiTele Chopo[/COLOR]
+ag5
+ag5
+aa(lp170
+VZ
 p171
-aVhttps://fuente-tvchopo.github.io/tvchopo/plugin.video.mitelechopo-3.0.zip
+aVKoditv
 p172
-ag5
-aa(lp173
-VD
+aV      [COLOR 0xFF33FF99]Kodi tv[/COLOR]
+p173
+aVhttps://fuente-tvchopo.github.io/tvchopo/plugin.video.koditv-2.zip
 p174
-aS'N'
-p175
-aV[COLOR yellow]N[/COLOR]
+ag5
+aa(lp175
+VD
 p176
-ag5
-ag5
-aa(lp177
-VD
+aS'L'
+p177
+aV[COLOR yellow]L[/COLOR]
 p178
-aS'O'
-p179
-aV[COLOR yellow]O[/COLOR]
+ag5
+ag5
+aa(lp179
+VD
 p180
-ag5
-ag5
-aa(lp181
-VD
+aS'M'
+p181
+aV[COLOR yellow]M[/COLOR]
 p182
-aS'P'
-p183
-aV[COLOR yellow]P[/COLOR]
+ag5
+ag5
+aa(lp183
+VZ
 p184
-ag5
-ag5
-aa(lp185
-VZ
+aVMediaExplorer
+p185
+aV      [COLOR 0xFF33FF99]MediaExplorer[/COLOR]
 p186
-aVPlutoTVRepo
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.mediaexplorer.zip
 p187
-aV      [COLOR 0xFF33FF99]Pluto TV Repo SlyGuy[/COLOR]
-p188
-aVhttps://k.slyguy.xyz/repository.slyguy.zip
+ag5
+aa(lp188
+VZ
 p189
-ag5
-aa(lp190
-VZ
+aVMiteleChopo
+p190
+aV      [COLOR 0xFF33FF99]MiTele Chopo[/COLOR]
 p191
-aVPalantir2
+aVhttps://fuente-tvchopo.github.io/tvchopo/plugin.video.mitelechopo-3.0.zip
 p192
-aV      [COLOR 0xFF33FF99]Palantir 2[/COLOR]
-p193
-aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.palantir2.zip
+ag5
+aa(lp193
+VD
 p194
-ag5
-aa(lp195
-VZ
+aS'N'
+p195
+aV[COLOR yellow]N[/COLOR]
 p196
-aVPVYoutube
-p197
-aV      [COLOR 0xFF33FF99]Plugin Video Youtube[/COLOR]
+ag5
+ag5
+aa(lp197
+VD
 p198
-aVhttps://github.com/mariposa19/kelebek/raw/master/Variados/plugin.video.youtube-6.8.15.zip
+aS'O'
 p199
+aV[COLOR yellow]O[/COLOR]
+p200
 ag5
-aa(lp200
+ag5
+aa(lp201
 VD
-p201
-aS'Q'
 p202
-aV[COLOR yellow]Q[/COLOR]
+aS'P'
 p203
+aV[COLOR yellow]P[/COLOR]
+p204
 ag5
 ag5
-aa(lp204
+aa(lp205
 VZ
-p205
-aVQSports
 p206
-aV      [COLOR 0xFF33FF99]Q Sports Repo Dejavu[/COLOR]
+aVPlutoTVRepo
 p207
-aVhttps://dejavurepo.github.io/repository.DejaVu-1.0.5.zip
+aV      [COLOR 0xFF33FF99]Pluto TV Repo SlyGuy[/COLOR]
 p208
+aVhttps://k.slyguy.xyz/repository.slyguy.zip
+p209
 ag5
-aa(lp209
-VD
-p210
-aS'R'
+aa(lp210
+VZ
 p211
-aV[COLOR yellow]R[/COLOR]
+aVPalantir2
 p212
-ag5
-ag5
-aa(lp213
-VZ
+aV      [COLOR 0xFF33FF99]Palantir 2[/COLOR]
+p213
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.palantir2.zip
 p214
-aVRadio
-p215
-aV      [COLOR 0xFF33FF99]Radio[/COLOR]
+ag5
+aa(lp215
+VZ
 p216
-aVhttps://mirrors.kodi.tv/addons/leia/plugin.audio.radio_de/plugin.audio.radio_de-3.0.3.zip
+aVPVYoutube
 p217
-ag5
-aa(lp218
-VZ
+aV      [COLOR 0xFF33FF99]Plugin Video Youtube[/COLOR]
+p218
+aVhttps://github.com/mariposa19/kelebek/raw/master/Variados/plugin.video.youtube-6.8.15.zip
 p219
-aVResolveURL
-p220
-aV      [COLOR 0xFF33FF99]ResolveURL[/COLOR]
+ag5
+aa(lp220
+VD
 p221
-aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.resolveurl-5.1.34.zip
+aS'Q'
 p222
+aV[COLOR yellow]Q[/COLOR]
+p223
 ag5
-aa(lp223
+ag5
+aa(lp224
 VZ
-p224
-aVRepoTorrest
 p225
-aV      [COLOR 0xFF33FF99]Repo Torrest[/COLOR]
+aVQSports
 p226
-aVhttps://github.com/i96751414/repository.github/archive/v0.0.6.zip
+aV      [COLOR 0xFF33FF99]Q Sports Repo Dejavu[/COLOR]
 p227
+aVhttps://dejavurepo.github.io/repository.DejaVu-1.0.5.zip
+p228
 ag5
-aa(lp228
-VZ
-p229
-aVRepoBuga
+aa(lp229
+VD
 p230
-aV      [COLOR 0xFF33FF99]Repo Bugatsinho[/COLOR]
+aS'R'
 p231
-aVhttps://kodiadictos.github.io/fuente/Repositorios/repository.bugatsinho-2.1.zip
+aV[COLOR yellow]R[/COLOR]
 p232
+ag5
 ag5
 aa(lp233
 VZ
 p234
-aVRepoAlfa
+aVRadio
 p235
-aV      [COLOR 0xFF33FF99]Repo Alfa[/COLOR]
+aV      [COLOR 0xFF33FF99]Radio[/COLOR]
 p236
-aVhttps://alfa-addon.com/alfa/repository.alfa-addon-1.0.6.zip
+aVhttps://mirrors.kodi.tv/addons/leia/plugin.audio.radio_de/plugin.audio.radio_de-3.0.3.zip
 p237
 ag5
 aa(lp238
@@ -502,155 +502,195 @@ aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.resolveurl-5.1.34.zip
 p242
 ag5
 aa(lp243
-VD
+VZ
 p244
-aS'S'
+aVRepoTorrest
 p245
-aV[COLOR yellow]S[/COLOR]
+aV      [COLOR 0xFF33FF99]Repo Torrest[/COLOR]
 p246
+aVhttps://github.com/i96751414/repository.github/archive/v0.0.6.zip
+p247
 ag5
-ag5
-aa(lp247
+aa(lp248
 VZ
-p248
-aVSportHD
 p249
-aV      [COLOR 0xFF33FF99]SportHD Repo Bugatsinho[/COLOR]
+aVRepoBuga
 p250
-aVhttps://kodiadictos.github.io/fuente/Repositorios/repository.bugatsinho-2.1.zip
+aV      [COLOR 0xFF33FF99]Repo Bugatsinho[/COLOR]
 p251
+aVhttps://kodiadictos.github.io/fuente/Repositorios/repository.bugatsinho-2.1.zip
+p252
 ag5
-aa(lp252
+aa(lp253
 VZ
-p253
-aVSamsungTVPlusRepo
 p254
-aV      [COLOR 0xFF33FF99]Samsung tv plus[/COLOR]
+aVRepoAlfa
 p255
-aVhttps://k.slyguy.xyz/repository.slyguy.zip
+aV      [COLOR 0xFF33FF99]Repo Alfa[/COLOR]
 p256
+aVhttps://alfa-addon.com/alfa/repository.alfa-addon-1.0.6.zip
+p257
 ag5
-aa(lp257
-VD
-p258
-aS'T'
+aa(lp258
+VZ
 p259
-aV[COLOR yellow]T[/COLOR]
+aVResolveURL
 p260
-ag5
-ag5
-aa(lp261
-VZ
+aV      [COLOR 0xFF33FF99]ResolveURL[/COLOR]
+p261
+aVhttps://fusion.tvaddons.co/kodi-scripts/script.module.resolveurl-5.1.34.zip
 p262
-aVMilhanos
-p263
-aV      [COLOR 0xFF33FF99]Team Milhanos[/COLOR]
+ag5
+aa(lp263
+VD
 p264
-aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.team.milhanos-1.5.zip
+aS'S'
 p265
+aV[COLOR yellow]S[/COLOR]
+p266
 ag5
-aa(lp266
+ag5
+aa(lp267
 VZ
-p267
-aVtvchopo
 p268
-aV      [COLOR 0xFF33FF99]TvChopo[/COLOR]
+aVSportHD
 p269
-aVhttps://fuente-tvchopo.github.io/tvchopo/plugin.video.tvchopo-24.zip
+aV      [COLOR 0xFF33FF99]SportHD Repo Bugatsinho[/COLOR]
 p270
+aVhttps://kodiadictos.github.io/fuente/Repositorios/repository.bugatsinho-2.1.zip
+p271
 ag5
-aa(lp271
+aa(lp272
 VZ
-p272
-aVTheOath
 p273
-aV      [COLOR 0xFF33FF99]The Oath Repo Host 505 [/COLOR]
+aVSamsungTVPlusRepo
 p274
-aVhttps://host505.github.io/repository.host505-2.5.zip
+aV      [COLOR 0xFF33FF99]Samsung tv plus[/COLOR]
 p275
+aVhttps://k.slyguy.xyz/repository.slyguy.zip
+p276
 ag5
-aa(lp276
+aa(lp277
 VD
-p277
-aS'U'
 p278
-aV[COLOR yellow]U[/COLOR]
+aS'T'
 p279
+aV[COLOR yellow]T[/COLOR]
+p280
 ag5
 ag5
-aa(lp280
+aa(lp281
 VZ
-p281
-aVUpnext
 p282
-aV      [COLOR 0xFF33FF99]Upnext[/COLOR]
+aVMilhanos
 p283
-aVhttps://mirrors.kodi.tv/addons/leia/service.upnext/service.upnext-1.1.5.zip
+aV      [COLOR 0xFF33FF99]Team Milhanos[/COLOR]
 p284
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.team.milhanos-1.5.zip
+p285
 ag5
-aa(lp285
-VD
-p286
-aS'V'
+aa(lp286
+VZ
 p287
-aV[COLOR yellow]V[/COLOR]
+aVtvchopo
 p288
-ag5
-ag5
-aa(lp289
-VZ
+aV      [COLOR 0xFF33FF99]TvChopo[/COLOR]
+p289
+aVhttps://fuente-tvchopo.github.io/tvchopo/plugin.video.tvchopo-24.zip
 p290
-aVVikirmatrix
-p291
-aV      [COLOR 0xFF33FF99]Vikir[/COLOR]
-p292
-aVhttps://github.com/kodi1/kodi1.github.io/raw/master/repo/plugin.video.vikir/plugin.video.vikir-0.19.4.15.zip
-p293
 ag5
-aa(lp294
-VD
-p295
-aS'W'
-p296
-aV[COLOR yellow]W[/COLOR]
-p297
-ag5
-ag5
-aa(lp298
+aa(lp291
 VZ
+p292
+aVTheOath
+p293
+aV      [COLOR 0xFF33FF99]The Oath Repo Host 505 [/COLOR]
+p294
+aVhttps://host505.github.io/repository.host505-2.5.zip
+p295
+ag5
+aa(lp296
+VD
+p297
+aS'U'
+p298
+aV[COLOR yellow]U[/COLOR]
 p299
-aVWinner
-p300
-aV      [COLOR 0xFF33FF99]Winner[/COLOR]
+ag5
+ag5
+aa(lp300
+VZ
 p301
-aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.winner.zip
+aVUpnext
 p302
-ag5
-aa(lp303
-VD
+aV      [COLOR 0xFF33FF99]Upnext[/COLOR]
+p303
+aVhttps://mirrors.kodi.tv/addons/leia/service.upnext/service.upnext-1.1.5.zip
 p304
-aS'X'
-p305
-aV[COLOR yellow]X[/COLOR]
+ag5
+aa(lp305
+VD
 p306
-ag5
-ag5
-aa(lp307
-VD
+aS'V'
+p307
+aV[COLOR yellow]V[/COLOR]
 p308
-aS'Y'
-p309
-aV[COLOR yellow]Y[/COLOR]
+ag5
+ag5
+aa(lp309
+VZ
 p310
-ag5
-ag5
-aa(lp311
-VD
+aVVikirmatrix
+p311
+aV      [COLOR 0xFF33FF99]Vikir[/COLOR]
 p312
-aS'Z'
+aVhttps://github.com/kodi1/kodi1.github.io/raw/master/repo/plugin.video.vikir/plugin.video.vikir-0.19.4.15.zip
 p313
+ag5
+aa(lp314
+VD
+p315
+aS'W'
+p316
+aV[COLOR yellow]W[/COLOR]
+p317
+ag5
+ag5
+aa(lp318
+VZ
+p319
+aVWinner
+p320
+aV      [COLOR 0xFF33FF99]Winner[/COLOR]
+p321
+aVhttps://mariposa19.github.io/kelebek/Videos/plugin.video.winner.zip
+p322
+ag5
+aa(lp323
+VD
+p324
+aS'X'
+p325
+aV[COLOR yellow]X[/COLOR]
+p326
+ag5
+ag5
+aa(lp327
+VD
+p328
+aS'Y'
+p329
+aV[COLOR yellow]Y[/COLOR]
+p330
+ag5
+ag5
+aa(lp331
+VD
+p332
+aS'Z'
+p333
 aV[COLOR yellow]Z[/COLOR]
-p314
+p334
 ag5
 ag5
 aa.
